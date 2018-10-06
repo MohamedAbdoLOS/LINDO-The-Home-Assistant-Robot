@@ -1,0 +1,38 @@
+{
+  "id": "412e8e98-761d-4df4-a5df-d4ba1061a202",
+  "name": "time.convert - context:convert-time - comment: location",
+  "auto": true,
+  "contexts": [
+    "convert-time"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "time.convert",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a6e60f48-9ac7-4b37-bcbf-c9427448f9a1",
+          "dataType": "@sys.location",
+          "name": "location-to",
+          "value": "$location-to"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1520455725,
+  "fallbackIntent": false,
+  "events": []
+}

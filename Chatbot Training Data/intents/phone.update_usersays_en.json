@@ -1,0 +1,56 @@
+[
+  {
+    "id": "154f4f2b-209f-437a-b3c0-927d7ff9ecb9",
+    "data": [
+      {
+        "text": "01003211458",
+        "alias": "phone-number",
+        "meta": "@sys.phone-number",
+        "userDefined": false
+      },
+      {
+        "text": " is my new number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526080378
+  },
+  {
+    "id": "f4d28eb6-1e88-45f4-9eb7-b83bda48861b",
+    "data": [
+      {
+        "text": "my new phone number is ",
+        "userDefined": false
+      },
+      {
+        "text": "01003211457",
+        "alias": "phone-number",
+        "meta": "@sys.phone-number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520257082
+  },
+  {
+    "id": "e20115f7-c1df-4164-82a4-7bae4b9df403",
+    "data": [
+      {
+        "text": "update my phone number to ",
+        "userDefined": false
+      },
+      {
+        "text": "01003211457",
+        "alias": "phone-number",
+        "meta": "@sys.phone-number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520257082
+  }
+]

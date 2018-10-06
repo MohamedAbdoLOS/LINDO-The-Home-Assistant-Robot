@@ -1,0 +1,131 @@
+[
+  {
+    "id": "14215b68-5797-4aad-8dc3-ca05e946295c",
+    "data": [
+      {
+        "text": "Fuck you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507667103
+  },
+  {
+    "id": "84c5c203-8383-4547-a10f-0bb42bea988f",
+    "data": [
+      {
+        "text": "I\u0027m being mad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507663985
+  },
+  {
+    "id": "cef94d73-2ed1-45e0-a7aa-9ad65688cde9",
+    "data": [
+      {
+        "text": "I am mad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507663985
+  },
+  {
+    "id": "14ea9b56-7a29-4079-bfdb-b0341ee314c7",
+    "data": [
+      {
+        "text": "I don\u0027t like you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507663985
+  },
+  {
+    "id": "a6e8a4c7-3a52-4a1c-a1eb-f402f9b70aee",
+    "data": [
+      {
+        "text": "I\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "m",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " enraged",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507663985
+  },
+  {
+    "id": "7059366b-ebb7-4155-8517-abddb0aecd23",
+    "data": [
+      {
+        "text": "I\u0027m furious",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507663985
+  },
+  {
+    "id": "11674fc5-8d52-4b53-b7ea-e2292801d6a0",
+    "data": [
+      {
+        "text": "I am mad at you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3fae22bc-c916-4c53-bff0-62faec59665a",
+    "data": [
+      {
+        "text": "I am angry with you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507663985
+  },
+  {
+    "id": "83137b93-3837-40ff-b043-36304d913302",
+    "data": [
+      {
+        "text": "I hate you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507663985
+  },
+  {
+    "id": "cc7e25ed-4761-4fbf-86e6-3f5c70523be1",
+    "data": [
+      {
+        "text": "I\u0027m angry",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507663985
+  }
+]

@@ -1,0 +1,37 @@
+{
+  "id": "597657d3-402f-453e-8514-b856769634d5",
+  "name": "smalltalk.confirmation.yes",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.confirmation.yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Great!",
+            "Of course.",
+            "Sure.",
+            "Indeed.",
+            "That\u0027s what I thought.",
+            "I thought so.",
+            "That\u0027s what I figured."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1526073850,
+  "fallbackIntent": false,
+  "events": []
+}

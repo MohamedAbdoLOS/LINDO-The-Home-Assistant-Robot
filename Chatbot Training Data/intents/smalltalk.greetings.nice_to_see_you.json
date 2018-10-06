@@ -1,0 +1,34 @@
+{
+  "id": "d4002e1b-ea6d-4f7e-bdbc-36149a653164",
+  "name": "smalltalk.greetings.nice_to_see_you",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.greetings.nice_to_see_you",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Likewise. You\u0027re looking good as usual!",
+            "You too. I missed your face!",
+            "The pleasure is mine.",
+            "Thanks! Glad to be seen!"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1507481256472,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "5aea2db1-e1e3-4a1f-879b-3590e6686dc1",
+  "name": "where was you built",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "I was fully built and designed in Egypt by team AWAKEN members."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1526074562,
+  "fallbackIntent": false,
+  "events": []
+}

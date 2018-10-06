@@ -1,0 +1,634 @@
+[
+  {
+    "id": "c36beb1c-94ce-426a-87a4-9f15e0c7b0b3",
+    "data": [
+      {
+        "text": "should I carry an ",
+        "userDefined": false
+      },
+      {
+        "text": "umbrella",
+        "alias": "outfit",
+        "meta": "@outfit",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6dd98e7f-a641-4c39-b392-4afcf7b9393c",
+    "data": [
+      {
+        "text": "should I wear ",
+        "userDefined": false
+      },
+      {
+        "text": "sunglasses",
+        "alias": "outfit",
+        "meta": "@outfit",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f16d6ab0-a507-4a86-be83-90f172c95845",
+    "data": [
+      {
+        "text": "should I wear a ",
+        "userDefined": false
+      },
+      {
+        "text": "jacket",
+        "alias": "outfit",
+        "meta": "@outfit",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f432a86a-76b4-4adc-b46f-c523e665ed62",
+    "data": [
+      {
+        "text": "will I need an ",
+        "userDefined": false
+      },
+      {
+        "text": "umbrella",
+        "alias": "outfit",
+        "meta": "@outfit",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "next Friday",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Paris",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "953ad3cc-8826-4af4-8107-aad818a9a6ae",
+    "data": [
+      {
+        "text": "should I wear ",
+        "userDefined": false
+      },
+      {
+        "text": "sunglasses",
+        "alias": "outfit",
+        "meta": "@outfit",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Milan",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9d1d2e15-ff7b-4a30-bc19-109ce8412ff1",
+    "data": [
+      {
+        "text": "do I need ",
+        "userDefined": false
+      },
+      {
+        "text": "umbrella",
+        "alias": "outfit",
+        "meta": "@outfit",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "in",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Tokyo",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ef964909-18dc-4418-a7d3-d6196f2b7993",
+    "data": [
+      {
+        "text": "do I need to bring a ",
+        "userDefined": false
+      },
+      {
+        "text": "jacket",
+        "alias": "outfit",
+        "meta": "@outfit",
+        "userDefined": true
+      },
+      {
+        "text": " to work ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "33d48ce9-4d52-4d6c-ad33-b55807474add",
+    "data": [
+      {
+        "text": "should I wear ",
+        "userDefined": false
+      },
+      {
+        "text": "sunglasses",
+        "alias": "outfit",
+        "meta": "@outfit",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "California",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ea1555bd-6a4b-4204-8174-c0551d3a8e07",
+    "data": [
+      {
+        "text": "will I need an ",
+        "userDefined": false
+      },
+      {
+        "text": "umbrella",
+        "alias": "outfit",
+        "meta": "@outfit",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Paris",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "this weekend",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "383cead6-a0c6-420c-a21c-d277b2f40ea7",
+    "data": [
+      {
+        "text": "will I need an ",
+        "userDefined": false
+      },
+      {
+        "text": "umbrella",
+        "alias": "outfit",
+        "meta": "@outfit",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c9ee0475-3708-445e-af55-2f560cef1330",
+    "data": [
+      {
+        "text": "will I need an ",
+        "userDefined": false
+      },
+      {
+        "text": "umbrella",
+        "alias": "outfit",
+        "meta": "@outfit",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "London",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "42fb7d3c-9316-4983-9571-314d64f8e3c3",
+    "data": [
+      {
+        "text": "should I wear my ",
+        "userDefined": false
+      },
+      {
+        "text": "gloves",
+        "alias": "outfit",
+        "meta": "@outfit",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "in",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Aspen",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "40a4c5d5-1394-4d80-a168-4fcd57f0ca65",
+    "data": [
+      {
+        "text": "should I take ",
+        "userDefined": false
+      },
+      {
+        "text": "sunglasses",
+        "alias": "outfit",
+        "meta": "@outfit",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3518e2ec-4867-4b2a-9c69-d07a23671b51",
+    "data": [
+      {
+        "text": "should I take an ",
+        "userDefined": false
+      },
+      {
+        "text": "umbrella",
+        "alias": "outfit",
+        "meta": "@outfit",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f895bbf6-e146-4649-a3f4-8fbf43e7128e",
+    "data": [
+      {
+        "text": "do I need ",
+        "userDefined": false
+      },
+      {
+        "text": "sunglasses",
+        "alias": "outfit",
+        "meta": "@outfit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "34678661-d435-45b6-af77-247b0ac1769d",
+    "data": [
+      {
+        "text": "should I take a ",
+        "userDefined": false
+      },
+      {
+        "text": "jacket",
+        "alias": "outfit",
+        "meta": "@outfit",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "Moscow",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2da0bb18-a0b1-4b5f-a3e0-5575629efc93",
+    "data": [
+      {
+        "text": "should I take a ",
+        "userDefined": false
+      },
+      {
+        "text": "jacket",
+        "alias": "outfit",
+        "meta": "@outfit",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3466d61a-bc31-4a31-a4c4-762176c31ea1",
+    "data": [
+      {
+        "text": "will I need an ",
+        "userDefined": false
+      },
+      {
+        "text": "umbrella",
+        "alias": "outfit",
+        "meta": "@outfit",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "this weekend",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4a840fdc-c031-4edf-8c18-32555961b35e",
+    "data": [
+      {
+        "text": "should I wear my ",
+        "userDefined": false
+      },
+      {
+        "text": "coat",
+        "alias": "outfit",
+        "meta": "@outfit",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "532ca6c9-4ed7-4a76-924c-8925a5092815",
+    "data": [
+      {
+        "text": "are we going to need a ",
+        "userDefined": false
+      },
+      {
+        "text": "coat",
+        "alias": "outfit",
+        "meta": "@outfit",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorow",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4ca7f7ef-296e-430d-b7ef-fbd164aaa9da",
+    "data": [
+      {
+        "text": "do I need an ",
+        "userDefined": false
+      },
+      {
+        "text": "umbrella",
+        "alias": "outfit",
+        "meta": "@outfit",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aee9ba46-bd9e-4e89-bf5c-1c6131439cb2",
+    "data": [
+      {
+        "text": "should I use ",
+        "userDefined": false
+      },
+      {
+        "text": "sunscreen",
+        "alias": "outfit",
+        "meta": "@outfit",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "df580d57-9a88-4572-9703-671c491002d8",
+    "data": [
+      {
+        "text": "should I take a ",
+        "userDefined": false
+      },
+      {
+        "text": "jacket",
+        "alias": "outfit",
+        "meta": "@outfit",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "Prague",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "June 20",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,183 @@
+[
+  {
+    "id": "5c537038-9933-4373-ad78-aa386ed472b4",
+    "data": [
+      {
+        "text": "now",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "kittens",
+        "alias": "searchfor",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520001590
+  },
+  {
+    "id": "c648ab42-7b2a-46ab-98f1-bb51fcb35d4a",
+    "data": [
+      {
+        "text": "dogs",
+        "alias": "searchfor",
+        "meta": "@sys.any",
+        "userDefined": false
+      },
+      {
+        "text": " as ",
+        "userDefined": false
+      },
+      {
+        "text": "well",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520001590
+  },
+  {
+    "id": "1b0ba118-9a13-45a9-8609-ea75c257c330",
+    "data": [
+      {
+        "text": "how about ",
+        "userDefined": false
+      },
+      {
+        "text": "apple pie recipes",
+        "alias": "searchfor",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520001590
+  },
+  {
+    "id": "ed183cf8-4b85-4631-8f90-503877da5574",
+    "data": [
+      {
+        "text": "what about ",
+        "userDefined": false
+      },
+      {
+        "text": "puppies",
+        "alias": "searchfor",
+        "meta": "@sys.any",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "now",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520001590
+  },
+  {
+    "id": "d914d33d-8e4b-4ffb-b24c-6afcffbbba7a",
+    "data": [
+      {
+        "text": "now for ",
+        "userDefined": false
+      },
+      {
+        "text": "tables",
+        "alias": "searchfor",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520001590
+  },
+  {
+    "id": "3c284e30-baf0-4fea-ab0d-2d6326e7e031",
+    "data": [
+      {
+        "text": "and ",
+        "userDefined": false
+      },
+      {
+        "text": "lions",
+        "alias": "searchfor",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520001590
+  },
+  {
+    "id": "95559533-61d1-4fe4-827c-75a35792f288",
+    "data": [
+      {
+        "text": "what about ",
+        "userDefined": false
+      },
+      {
+        "text": "Saw",
+        "alias": "searchfor",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520001590
+  },
+  {
+    "id": "739949de-e8f3-44c9-bcca-d608effc8788",
+    "data": [
+      {
+        "text": "even ",
+        "userDefined": false
+      },
+      {
+        "text": "DialogFlow",
+        "alias": "searchfor",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1520001590
+  },
+  {
+    "id": "765e7701-6421-40fb-82d4-a561c17ed506",
+    "data": [
+      {
+        "text": "dogs",
+        "alias": "searchfor",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " next",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520001590
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "id": "729df792-a954-45f0-b3ca-94697b62e932",
+  "name": "smalltalk.greetings.nice_to_meet_you",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.greetings.nice_to_meet_you",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "I think this is the beginning of a beautiful friendship.",
+            "I\u0027m looking forward to working with you.",
+            "Likewise. I look forward to getting to know you better.",
+            "The pleasure is mine."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1507481256655,
+  "fallbackIntent": false,
+  "events": []
+}

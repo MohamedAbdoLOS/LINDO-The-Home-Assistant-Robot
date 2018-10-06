@@ -1,0 +1,164 @@
+[
+  {
+    "id": "b924b1f4-be71-4f4c-8406-8153f1a26c62",
+    "data": [
+      {
+        "text": "plus the ",
+        "userDefined": false
+      },
+      {
+        "text": "TV",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526075045
+  },
+  {
+    "id": "2d644cee-814a-4a20-91be-85864ebf51ce",
+    "data": [
+      {
+        "text": "and ",
+        "userDefined": false
+      },
+      {
+        "text": "TV",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526075045
+  },
+  {
+    "id": "a7fba34d-e6a0-41bf-a516-74bc359d0b7a",
+    "data": [
+      {
+        "text": "even the ",
+        "userDefined": false
+      },
+      {
+        "text": "motor",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "94922ec9-cee9-45ac-bc41-73481927757d",
+    "data": [
+      {
+        "text": "also the ",
+        "userDefined": false
+      },
+      {
+        "text": "TV",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c7ba810c-c0f5-4e89-a0c0-d5ce4c68663e",
+    "data": [
+      {
+        "text": "The ",
+        "userDefined": false
+      },
+      {
+        "text": "Computer",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dc4374f3-e0f3-4591-847a-6d02f6eddfdd",
+    "data": [
+      {
+        "text": "and now the ",
+        "userDefined": false
+      },
+      {
+        "text": "TV",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f436130b-284d-46cd-bcf0-565347fc039e",
+    "data": [
+      {
+        "text": "Please the ",
+        "userDefined": false
+      },
+      {
+        "text": "TV",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "86a515d2-c727-4b90-84b9-1d3ac89c9a55",
+    "data": [
+      {
+        "text": "Now the ",
+        "userDefined": false
+      },
+      {
+        "text": "dish washer",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cd4cec5b-59e1-4f0a-b8df-290da913866c",
+    "data": [
+      {
+        "text": "What about the ",
+        "userDefined": false
+      },
+      {
+        "text": "TV",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

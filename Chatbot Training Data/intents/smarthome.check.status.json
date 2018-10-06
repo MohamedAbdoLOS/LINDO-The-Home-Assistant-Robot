@@ -1,0 +1,70 @@
+{
+  "id": "585c1c08-ee68-4cee-8916-979a1f1c10bb",
+  "name": "smarthome.check.status",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "check.status",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e6d15bc3-067f-434b-9b57-e2cea3860662",
+          "required": true,
+          "dataType": "@device",
+          "name": "device",
+          "value": "$device",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Which device?"
+            },
+            {
+              "lang": "en",
+              "value": "Which device are we talking about here?"
+            },
+            {
+              "lang": "en",
+              "value": "Which one?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "0650e3db-91da-4958-96f0-36ded8aaa3d8",
+          "required": false,
+          "dataType": "@room",
+          "name": "room",
+          "value": "$room",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "For which room?"
+            },
+            {
+              "lang": "en",
+              "value": "For which room should I do this?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528976941,
+  "fallbackIntent": false,
+  "events": []
+}

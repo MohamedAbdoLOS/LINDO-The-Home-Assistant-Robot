@@ -1,0 +1,139 @@
+[
+  {
+    "id": "7be40073-131e-470a-86d2-231f74def0ac",
+    "data": [
+      {
+        "text": "5",
+        "alias": "clc-number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " multiplied by ",
+        "userDefined": false
+      },
+      {
+        "text": "6",
+        "alias": "clc-number1",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519935231
+  },
+  {
+    "id": "4c430e3b-c0de-4c88-a59a-54a940a4dace",
+    "data": [
+      {
+        "text": "multiply ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "alias": "clc-number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "in",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "6",
+        "alias": "clc-number1",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519935231
+  },
+  {
+    "id": "dbff87a1-ba29-4697-8eaa-5a5830544e69",
+    "data": [
+      {
+        "text": "1",
+        "alias": "clc-number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " x ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "alias": "clc-number1",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519935231
+  },
+  {
+    "id": "ff1c38b8-1242-4744-8d30-a41ade990569",
+    "data": [
+      {
+        "text": "multiply ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "alias": "clc-number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "6",
+        "alias": "clc-number1",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519935231
+  },
+  {
+    "id": "a010e5e9-d5be-4985-88f9-93efc4aa360e",
+    "data": [
+      {
+        "text": "5",
+        "alias": "clc-number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " * ",
+        "userDefined": false
+      },
+      {
+        "text": "6",
+        "alias": "clc-number1",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519935231
+  }
+]

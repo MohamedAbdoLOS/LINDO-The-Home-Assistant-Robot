@@ -1,0 +1,58 @@
+{
+  "id": "fb5f584e-9a7b-4154-ae4a-0692906ca7eb",
+  "name": "units.convert - context:units",
+  "auto": true,
+  "contexts": [
+    "convert-units"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "units.convert",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "3319a965-fb5a-4c62-a61c-966f094249ef",
+          "dataType": "@sys.number",
+          "name": "amount",
+          "value": "$amount",
+          "isList": false
+        },
+        {
+          "id": "819c6fd4-81e0-490d-b41e-169ece5f8387",
+          "dataType": "@unit",
+          "name": "unit-from",
+          "value": "$unit-from",
+          "isList": false
+        },
+        {
+          "id": "eecf11e6-dbc8-400e-990e-08ff3992ddbc",
+          "dataType": "@unit",
+          "name": "unit-to",
+          "value": "$unit-to",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Here\u0027s how many $unit-to in a $amount $unit-from : [ConvNumber]",
+            "So there is [ConvNumber] $unit-to in a $amount $unit-from",
+            "There is [ConvNumber] $unit-to in a $amount $unit-from",
+            "I believe there is [ConvNumber] $unit-to in a $amount $unit-from"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1507664491,
+  "fallbackIntent": false,
+  "events": []
+}

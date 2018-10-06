@@ -1,0 +1,60 @@
+{
+  "id": "c12ef6d7-7d11-4c7f-8c77-4b209c89aad0",
+  "name": "time.time_difference",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "time.time_difference",
+      "affectedContexts": [
+        {
+          "name": "time-difference",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "060c2671-2ce3-4198-8aca-303c76dab261",
+          "dataType": "@sys.location",
+          "name": "location-1",
+          "value": "$location-1"
+        },
+        {
+          "id": "83f5d78d-af1d-41f4-a9b6-d4ec08c44695",
+          "dataType": "@sys.location",
+          "name": "location-2",
+          "value": "$location-2"
+        },
+        {
+          "id": "6cb09989-7ce3-42bf-b63c-6754cfde0f98",
+          "dataType": "@time-zone",
+          "name": "zone-1",
+          "value": "$zone-1"
+        },
+        {
+          "id": "39488c29-d974-4122-82d7-c55534e0b461",
+          "dataType": "@time-zone",
+          "name": "zone-2",
+          "value": "$zone-2"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1520455766,
+  "fallbackIntent": false,
+  "events": []
+}

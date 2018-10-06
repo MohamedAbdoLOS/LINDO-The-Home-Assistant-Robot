@@ -1,0 +1,68 @@
+{
+  "id": "5eb6c2d8-4526-4baa-8946-b610322609d8",
+  "name": "smarthome.device.switch.off.context",
+  "auto": true,
+  "contexts": [
+    "device-off-context"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smarthome.device.switch.off",
+      "affectedContexts": [
+        {
+          "name": "device-off-context",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "d9c37bec-8878-4860-aeb4-ddc474aa48f4",
+          "required": true,
+          "dataType": "@device",
+          "name": "device",
+          "value": "$device",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Which device?"
+            },
+            {
+              "lang": "en",
+              "value": "Which device are we talking about here?"
+            },
+            {
+              "lang": "en",
+              "value": "Which one?"
+            },
+            {
+              "lang": "en",
+              "value": "For which device should I do this?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Sir, yes sir... Turning $device Off.",
+            "Consider it done, Turning $device Off.",
+            "Your $device just got turned Off."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1529401066,
+  "fallbackIntent": false,
+  "events": []
+}

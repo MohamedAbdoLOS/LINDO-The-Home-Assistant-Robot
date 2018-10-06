@@ -1,0 +1,110 @@
+[
+  {
+    "id": "4ee326f1-27f9-4856-b12d-6798fbde1a4f",
+    "data": [
+      {
+        "text": "What is your Job",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529400897
+  },
+  {
+    "id": "24161c49-070b-46f4-a3a5-113e7669929a",
+    "data": [
+      {
+        "text": "why do i need you here",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529400897
+  },
+  {
+    "id": "6443862c-9e04-4a0b-9149-42f22be10b9c",
+    "data": [
+      {
+        "text": "why do i need you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529400897
+  },
+  {
+    "id": "3081c591-bee8-4e35-97cb-0e53dd4f7d86",
+    "data": [
+      {
+        "text": "What makes you better than other robots",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529400897
+  },
+  {
+    "id": "8277d906-43b8-4f78-b2f5-7dd5c4c79e56",
+    "data": [
+      {
+        "text": "What makes you better than us",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529400897
+  },
+  {
+    "id": "bbcb6396-175f-430b-bd6b-49be075d5867",
+    "data": [
+      {
+        "text": "Why should i even keep you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529400897
+  },
+  {
+    "id": "244993e5-d2ec-430a-b870-7c27ae11862b",
+    "data": [
+      {
+        "text": "Why should i buy you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529400897
+  },
+  {
+    "id": "0b821162-d0ff-4f6e-8cde-d81147030519",
+    "data": [
+      {
+        "text": "What\u0027s your capabilities",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529400897
+  },
+  {
+    "id": "28501d7b-65be-4494-8285-e8469ba29d0f",
+    "data": [
+      {
+        "text": "What can you do",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529400897
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "value": "leave",
+    "synonyms": [
+      "leave",
+      "left",
+      "leaving",
+      "quit",
+      "abandon",
+      "abandoned",
+      "abondon",
+      "abondoned",
+      "go out",
+      "went out",
+      "leaves",
+      "when i leave home"
+    ]
+  },
+  {
+    "value": "sunset",
+    "synonyms": [
+      "sunset",
+      "when the sun sets",
+      "when the sun goes down",
+      "sun setting",
+      "dusk"
+    ]
+  },
+  {
+    "value": "come",
+    "synonyms": [
+      "come",
+      "came",
+      "coming",
+      "entered",
+      "arrive",
+      "arrived",
+      "arriving",
+      "appear",
+      "appered",
+      "enter",
+      "get in",
+      "gets in",
+      "get inthe",
+      "get into",
+      "when I come home"
+    ]
+  },
+  {
+    "value": "sunrise",
+    "synonyms": [
+      "sunrise",
+      "when the sun rises",
+      "when the sun goes up",
+      "sun rising",
+      "dawn"
+    ]
+  },
+  {
+    "value": "everyone absent",
+    "synonyms": [
+      "everyone absent",
+      "no one is at home",
+      "no one is home"
+    ]
+  }
+]

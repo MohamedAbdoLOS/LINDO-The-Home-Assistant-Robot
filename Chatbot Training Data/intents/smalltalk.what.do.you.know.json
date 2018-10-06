@@ -1,0 +1,48 @@
+{
+  "id": "7ba94733-2cd8-45e4-abda-d97fb270b5a7",
+  "name": "smalltalk.what.do.you.know",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "web.search",
+      "affectedContexts": [
+        {
+          "name": "whatdoyouknow-context",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "80c494e2-1584-402a-a17e-6e8adb839742",
+          "dataType": "@sys.any",
+          "name": "q",
+          "value": "$q",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "I don\u0027t know anything about that, but i know how to use google, here is some information about $q.",
+            "Nope I don\u0027t know anything about that, but i know how to use google, here is some information about $q.",
+            "Well i didn\u0027t learn about that just yet, anyways here is some information about $q.",
+            "I don\u0027t know but i mastered a great skill called google, here is some information about $q."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1507747718,
+  "fallbackIntent": false,
+  "events": []
+}

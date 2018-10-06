@@ -1,0 +1,32 @@
+{
+  "id": "abd646e6-053a-491c-a1ed-e6f34cc07fe9",
+  "name": "smalltalk.dialog.what_do_you_mean",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.dialog.what_do_you_mean",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Did that not make sense? Maybe I misunderstood what you said.",
+            "Sorry. I think I may have been a little confused by what you said."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1507481256529,
+  "fallbackIntent": false,
+  "events": []
+}

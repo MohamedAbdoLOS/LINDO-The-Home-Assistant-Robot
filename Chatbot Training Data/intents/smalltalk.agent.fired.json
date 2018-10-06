@@ -1,0 +1,32 @@
+{
+  "id": "bbeb601e-cafc-44cd-b0e3-acbbc3109d68",
+  "name": "smalltalk.agent.fired",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.fired",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Oh no! My best work is yet to come.",
+            "Oh, don\u0027t give up on me!"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1507481256704,
+  "fallbackIntent": false,
+  "events": []
+}

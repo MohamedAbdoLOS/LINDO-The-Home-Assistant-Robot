@@ -1,0 +1,133 @@
+[
+  {
+    "value": "skiing",
+    "synonyms": [
+      "skiing"
+    ]
+  },
+  {
+    "value": "snowboarding",
+    "synonyms": [
+      "snowboarding"
+    ]
+  },
+  {
+    "value": "jogging",
+    "synonyms": [
+      "jogging"
+    ]
+  },
+  {
+    "value": "cycling",
+    "synonyms": [
+      "cycling",
+      "ride my bike",
+      "riding a bike",
+      "ride"
+    ]
+  },
+  {
+    "value": "run",
+    "synonyms": [
+      "running"
+    ]
+  },
+  {
+    "value": "hiking",
+    "synonyms": [
+      "hiking"
+    ]
+  },
+  {
+    "value": "climbing",
+    "synonyms": [
+      "climbing"
+    ]
+  },
+  {
+    "value": "skating",
+    "synonyms": [
+      "skating"
+    ]
+  },
+  {
+    "value": "tree climbing",
+    "synonyms": [
+      "tree climbing"
+    ]
+  },
+  {
+    "value": "frisbee",
+    "synonyms": [
+      "frisbee"
+    ]
+  },
+  {
+    "value": "birdwatching",
+    "synonyms": [
+      "birdwatching"
+    ]
+  },
+  {
+    "value": "mountain biking",
+    "synonyms": [
+      "mountain biking"
+    ]
+  },
+  {
+    "value": "elephant safari",
+    "synonyms": [
+      "elephant safari"
+    ]
+  },
+  {
+    "value": "parasailing",
+    "synonyms": [
+      "parasailing"
+    ]
+  },
+  {
+    "value": "surfing",
+    "synonyms": [
+      "surfing"
+    ]
+  },
+  {
+    "value": "swimming",
+    "synonyms": [
+      "swimming"
+    ]
+  },
+  {
+    "value": "sightseeing",
+    "synonyms": [
+      "sightseeing"
+    ]
+  },
+  {
+    "value": "kayaking",
+    "synonyms": [
+      "kayaking"
+    ]
+  },
+  {
+    "value": "mushroom hunting",
+    "synonyms": [
+      "mushroom hunting"
+    ]
+  },
+  {
+    "value": "snowball fighting",
+    "synonyms": [
+      "snowball fighting",
+      "snowball fights",
+      "snowball fight"
+    ]
+  },
+  {
+    "value": "walking",
+    "synonyms": [
+      "walking"
+    ]
+  }
+]

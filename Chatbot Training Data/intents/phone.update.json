@@ -1,0 +1,44 @@
+{
+  "id": "df26856b-2bcc-4a3a-9d07-7d132b8ddb97",
+  "name": "phone.update",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "phone.update",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "771419a9-baeb-4fe9-a54b-b83884f64eac",
+          "required": true,
+          "dataType": "@sys.phone-number",
+          "name": "phone-number",
+          "value": "$phone-number",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "what is your new phone number ?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1526080378,
+  "fallbackIntent": false,
+  "events": []
+}

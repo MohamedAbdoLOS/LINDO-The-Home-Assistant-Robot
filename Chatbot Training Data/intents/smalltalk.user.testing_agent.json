@@ -1,0 +1,34 @@
+{
+  "id": "94e9d0a4-cad1-42e7-82cd-c548ed83270c",
+  "name": "smalltalk.user.testing_agent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.user.testing_agent",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Hope I\u0027m doing well. Anyway, I\u0027m getting better every day. You\u0027re welcome to test me as often as you want.",
+            "That\u0027s good. I like being tested. It helps keep me sharp, and lets my developers know how I can improve.",
+            "I encourage you to test me often. That helps my developers improve my performance.",
+            "I hope to pass your tests. But feel free to test me often. That\u0027s the best way to help improve my performance."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1507481256256,
+  "fallbackIntent": false,
+  "events": []
+}

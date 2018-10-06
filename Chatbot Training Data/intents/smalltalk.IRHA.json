@@ -1,0 +1,28 @@
+{
+  "id": "d6a68c32-8a5b-4c1a-ac8b-43d4b37db4fc",
+  "name": "smalltalk.IRHA",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "I\u0027m a smart interactive home assistant robot, I\u0027m using Artificial Intelligence right now to talk to you, i\u0027m supposed to keep your home safe and connected, i can be pretty entertaining too."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1529400897,
+  "fallbackIntent": false,
+  "events": []
+}

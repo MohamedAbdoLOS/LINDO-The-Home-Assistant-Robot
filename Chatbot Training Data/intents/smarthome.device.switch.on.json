@@ -1,0 +1,119 @@
+{
+  "id": "80b3e036-be7c-4394-b28a-8225d7cfc513",
+  "name": "smarthome.device.switch.on",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smarthome.device.switch.on",
+      "affectedContexts": [
+        {
+          "name": "device-switch",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "room",
+          "parameters": {},
+          "lifespan": 3
+        },
+        {
+          "name": "schedule",
+          "parameters": {},
+          "lifespan": 3
+        },
+        {
+          "name": "check",
+          "parameters": {},
+          "lifespan": 3
+        },
+        {
+          "name": "device-brightness",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "device-on-context",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "9f365f66-620c-4ae6-b6c4-5b1290e58d5f",
+          "required": true,
+          "dataType": "@device",
+          "name": "device",
+          "value": "$device",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Which device are we talking about here?"
+            },
+            {
+              "lang": "en",
+              "value": "Which one?"
+            },
+            {
+              "lang": "en",
+              "value": "Which device?"
+            },
+            {
+              "lang": "en",
+              "value": "For which device should I do this?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "e71bf27c-f905-431e-98ca-0abbbf1a0ead",
+          "required": false,
+          "dataType": "@room",
+          "name": "room",
+          "value": "$room",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "For which room?"
+            },
+            {
+              "lang": "en",
+              "value": "For which room should I do this?"
+            }
+          ],
+          "defaultValue": "",
+          "isList": false
+        },
+        {
+          "id": "8b6b5199-069a-4c7f-b3b9-468a6351e9b7",
+          "required": false,
+          "dataType": "@all",
+          "name": "all",
+          "value": "$all",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Sir, yes sir... Turning $device On.",
+            "Consider it done, Turning $device On.",
+            "Your $device just got turned On.",
+            "Done."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1529400968,
+  "fallbackIntent": false,
+  "events": []
+}

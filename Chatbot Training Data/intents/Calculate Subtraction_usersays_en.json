@@ -1,0 +1,182 @@
+[
+  {
+    "id": "9bfe1fc6-ba80-44a8-bdaa-eda439c6aac4",
+    "data": [
+      {
+        "text": "substrate ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "clc-number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " from ",
+        "userDefined": false
+      },
+      {
+        "text": "10",
+        "alias": "clc-number1",
+        "meta": "@sys.number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520700314
+  },
+  {
+    "id": "52e74f8a-3488-424c-8bd4-2129fafb2291",
+    "data": [
+      {
+        "text": "15",
+        "alias": "clc-number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " subtracted from  ",
+        "userDefined": false
+      },
+      {
+        "text": "20",
+        "alias": "clc-number1",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520700314
+  },
+  {
+    "id": "db800cf3-9142-4fff-ae30-6b0375e90db4",
+    "data": [
+      {
+        "text": "subtraction of ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "clc-number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " from ",
+        "userDefined": false
+      },
+      {
+        "text": "10",
+        "alias": "clc-number1",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520700314
+  },
+  {
+    "id": "98c056f7-9f0d-4329-837f-bf54f2f2002d",
+    "data": [
+      {
+        "text": "sub ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "clc-number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " from ",
+        "userDefined": false
+      },
+      {
+        "text": "10",
+        "alias": "clc-number1",
+        "meta": "@sys.number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520700314
+  },
+  {
+    "id": "0dca1632-cb36-47b2-9336-daf523d5ae4d",
+    "data": [
+      {
+        "text": "1",
+        "alias": "clc-number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " - ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "clc-number1",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519934371
+  },
+  {
+    "id": "47ce0628-8505-43f7-bbcd-639c3783a685",
+    "data": [
+      {
+        "text": "15",
+        "alias": "clc-number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " minus ",
+        "userDefined": false
+      },
+      {
+        "text": "15",
+        "alias": "clc-number1",
+        "meta": "@sys.number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519761203
+  },
+  {
+    "id": "33469123-e38f-4a61-90c4-f9333edd3090",
+    "data": [
+      {
+        "text": "1",
+        "alias": "clc-number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " sub ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "clc-number1",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519761203
+  }
+]

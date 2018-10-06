@@ -1,0 +1,319 @@
+[
+  {
+    "value": "kitchen",
+    "synonyms": [
+      "kitchen"
+    ]
+  },
+  {
+    "value": "bedroom",
+    "synonyms": [
+      "bedroom",
+      "bed room",
+      "bedroom\u0027s",
+      "bedrooms"
+    ]
+  },
+  {
+    "value": "conference room",
+    "synonyms": [
+      "conference room"
+    ]
+  },
+  {
+    "value": "backroom",
+    "synonyms": [
+      "backroom",
+      "back room"
+    ]
+  },
+  {
+    "value": "dressing room",
+    "synonyms": [
+      "dressing room"
+    ]
+  },
+  {
+    "value": "clean room",
+    "synonyms": [
+      "clean room"
+    ]
+  },
+  {
+    "value": "hallway",
+    "synonyms": [
+      "hallway"
+    ]
+  },
+  {
+    "value": "family room",
+    "synonyms": [
+      "family room"
+    ]
+  },
+  {
+    "value": "foyer",
+    "synonyms": [
+      "foyer"
+    ]
+  },
+  {
+    "value": "dining room",
+    "synonyms": [
+      "dining room"
+    ]
+  },
+  {
+    "value": "cloakroom",
+    "synonyms": [
+      "cloakroom",
+      "cloak room"
+    ]
+  },
+  {
+    "value": "hall",
+    "synonyms": [
+      "hall"
+    ]
+  },
+  {
+    "value": "guest room",
+    "synonyms": [
+      "guest room"
+    ]
+  },
+  {
+    "value": "basement",
+    "synonyms": [
+      "basement"
+    ]
+  },
+  {
+    "value": "garage",
+    "synonyms": [
+      "garage"
+    ]
+  },
+  {
+    "value": "bathroom",
+    "synonyms": [
+      "bathroom",
+      "bath room"
+    ]
+  },
+  {
+    "value": "common room",
+    "synonyms": [
+      "common room"
+    ]
+  },
+  {
+    "value": "breakfast room",
+    "synonyms": [
+      "breakfast room"
+    ]
+  },
+  {
+    "value": "green room",
+    "synonyms": [
+      "green room"
+    ]
+  },
+  {
+    "value": "boiler room",
+    "synonyms": [
+      "boiler room"
+    ]
+  },
+  {
+    "value": "office",
+    "synonyms": [
+      "office"
+    ]
+  },
+  {
+    "value": "lunchroom",
+    "synonyms": [
+      "lunchroom",
+      "lunch room"
+    ]
+  },
+  {
+    "value": "ladies room",
+    "synonyms": [
+      "ladies room"
+    ]
+  },
+  {
+    "value": "washroom",
+    "synonyms": [
+      "washroom"
+    ]
+  },
+  {
+    "value": "laundry room",
+    "synonyms": [
+      "laundry room"
+    ]
+  },
+  {
+    "value": "living room",
+    "synonyms": [
+      "living room"
+    ]
+  },
+  {
+    "value": "waiting room",
+    "synonyms": [
+      "waiting room"
+    ]
+  },
+  {
+    "value": "studio",
+    "synonyms": [
+      "studio"
+    ]
+  },
+  {
+    "value": "workroom",
+    "synonyms": [
+      "workroom",
+      "work room"
+    ]
+  },
+  {
+    "value": "hallway",
+    "synonyms": [
+      "hallway"
+    ]
+  },
+  {
+    "value": "room",
+    "synonyms": [
+      "room"
+    ]
+  },
+  {
+    "value": "lobby",
+    "synonyms": [
+      "lobby"
+    ]
+  },
+  {
+    "value": "lounge",
+    "synonyms": [
+      "lounge"
+    ]
+  },
+  {
+    "value": "mens room",
+    "synonyms": [
+      "mens room",
+      "men\u0027s room",
+      "mens\u0027 room"
+    ]
+  },
+  {
+    "value": "outdoor",
+    "synonyms": [
+      "outdoor"
+    ]
+  },
+  {
+    "value": "homeroom",
+    "synonyms": [
+      "homeroom"
+    ]
+  },
+  {
+    "value": "library",
+    "synonyms": [
+      "library"
+    ]
+  },
+  {
+    "value": "water closet",
+    "synonyms": [
+      "water closet"
+    ]
+  },
+  {
+    "value": "womens room",
+    "synonyms": [
+      "womens room",
+      "women\u0027s room",
+      "womens\u0027 room"
+    ]
+  },
+  {
+    "value": "visitors room",
+    "synonyms": [
+      "visitors room"
+    ]
+  },
+  {
+    "value": "hall",
+    "synonyms": [
+      "hall"
+    ]
+  },
+  {
+    "value": "gaming room",
+    "synonyms": [
+      "gaming room"
+    ]
+  },
+  {
+    "value": "boardroom",
+    "synonyms": [
+      "boardroom",
+      "board room"
+    ]
+  },
+  {
+    "value": "garden",
+    "synonyms": [
+      "garden"
+    ]
+  },
+  {
+    "value": "kids room",
+    "synonyms": [
+      "kids room",
+      "kid\u0027s room"
+    ]
+  },
+  {
+    "value": "upstairs",
+    "synonyms": [
+      "upstairs"
+    ]
+  },
+  {
+    "value": "porch",
+    "synonyms": [
+      "porch"
+    ]
+  },
+  {
+    "value": "spare bedroom",
+    "synonyms": [
+      "spare bedroom"
+    ]
+  },
+  {
+    "value": "entrance",
+    "synonyms": [
+      "entrance",
+      "front"
+    ]
+  },
+  {
+    "value": "master room",
+    "synonyms": [
+      "Master room",
+      "master",
+      "main"
+    ]
+  }
+]

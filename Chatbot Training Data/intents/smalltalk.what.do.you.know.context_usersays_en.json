@@ -1,0 +1,129 @@
+[
+  {
+    "id": "70a6d15b-33d3-4c96-948a-b465438089ae",
+    "data": [
+      {
+        "text": "and ",
+        "userDefined": false
+      },
+      {
+        "text": "dogs",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507747846
+  },
+  {
+    "id": "55c9ea79-7ce7-4452-8bae-6ec4b954290e",
+    "data": [
+      {
+        "text": "cats",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507747846
+  },
+  {
+    "id": "9e69f7a4-9619-4311-b909-838fa7a6c839",
+    "data": [
+      {
+        "text": "and ",
+        "userDefined": false
+      },
+      {
+        "text": "vampires",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507747846
+  },
+  {
+    "id": "5a71f04d-b4bd-42d3-b460-cb1618cc6a67",
+    "data": [
+      {
+        "text": "what about ",
+        "userDefined": false
+      },
+      {
+        "text": "Madonna",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3423988f-8bf4-4f20-974a-fa6b2cb2a761",
+    "data": [
+      {
+        "text": "and",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Skrillex",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1ded6007-bc12-4814-a850-c3c5d68e5df6",
+    "data": [
+      {
+        "text": "even ",
+        "userDefined": false
+      },
+      {
+        "text": "skrillex",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f6288cc8-466b-40b6-bd54-751a2c47b52f",
+    "data": [
+      {
+        "text": "what about the ",
+        "userDefined": false
+      },
+      {
+        "text": "convolution in math",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

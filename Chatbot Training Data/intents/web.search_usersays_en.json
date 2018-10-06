@@ -1,0 +1,442 @@
+[
+  {
+    "id": "8c0a0bc4-200e-47c6-9497-d3e0507e4a64",
+    "data": [
+      {
+        "text": "find ",
+        "userDefined": false
+      },
+      {
+        "text": "Newton laws",
+        "alias": "searchfor",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " in the web",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519938432
+  },
+  {
+    "id": "7689f703-7398-4bee-a43c-8406d791df0c",
+    "data": [
+      {
+        "text": "find ",
+        "userDefined": false
+      },
+      {
+        "text": "apple pie recipes",
+        "alias": "searchfor",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519938432
+  },
+  {
+    "id": "e42b36dc-d3a5-4603-9343-58e10eac2c9a",
+    "data": [
+      {
+        "text": "search ",
+        "userDefined": false
+      },
+      {
+        "text": "how to build a house",
+        "alias": "searchfor",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519938432
+  },
+  {
+    "id": "38133bc0-e6db-494d-a3e8-5e3d68251581",
+    "data": [
+      {
+        "text": "search for ",
+        "userDefined": false
+      },
+      {
+        "text": "popular wallpapers",
+        "alias": "searchfor",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "Yahoo",
+        "alias": "service",
+        "meta": "@search-engine",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519938432
+  },
+  {
+    "id": "671cc3bd-44b6-42db-b572-59886d457561",
+    "data": [
+      {
+        "text": "I can\u0027t seem to find any info about ",
+        "userDefined": false
+      },
+      {
+        "text": "Katy Perry",
+        "alias": "searchfor",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519938432
+  },
+  {
+    "id": "6266f4fd-3980-4861-9e7f-ff31fe79843a",
+    "data": [
+      {
+        "text": "Google",
+        "alias": "service",
+        "meta": "@search-engine",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "who is the president of the United States",
+        "alias": "searchfor",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519938432
+  },
+  {
+    "id": "196ec209-3d80-48ea-a94e-243da93cd48a",
+    "data": [
+      {
+        "text": "find ",
+        "userDefined": false
+      },
+      {
+        "text": "funny cats",
+        "alias": "searchfor",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519938432
+  },
+  {
+    "id": "e0c7a93e-6abb-4646-a678-f5421d2ed8e9",
+    "data": [
+      {
+        "text": "find information about ",
+        "userDefined": false
+      },
+      {
+        "text": "Madonna",
+        "alias": "searchfor",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519938432
+  },
+  {
+    "id": "3e543226-fb5b-4e93-9ef3-b7cd13d3362b",
+    "data": [
+      {
+        "text": "can you find information",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519937884
+  },
+  {
+    "id": "0a019a89-8923-4410-9c0c-41656cedf551",
+    "data": [
+      {
+        "text": "search the web for ",
+        "userDefined": false
+      },
+      {
+        "text": "tekken",
+        "alias": "searchfor",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520788468
+  },
+  {
+    "id": "dd20ca36-7cb1-4de8-8baf-92a5f46a4f83",
+    "data": [
+      {
+        "text": "google",
+        "alias": "service",
+        "meta": "@search-engine",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "recipe for tomato soup",
+        "alias": "searchfor",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519938432
+  },
+  {
+    "id": "f8cb4059-01e0-49b5-a941-dfb1ee02bd8a",
+    "data": [
+      {
+        "text": "search the Internet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519938432
+  },
+  {
+    "id": "7313e675-277c-4431-a9a2-c4215f95f9c4",
+    "data": [
+      {
+        "text": "find some info about ",
+        "userDefined": false
+      },
+      {
+        "text": "games",
+        "alias": "searchfor",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520788468
+  },
+  {
+    "id": "e05c22f3-a8c9-483e-8238-535daa77af13",
+    "data": [
+      {
+        "text": "find ",
+        "userDefined": false
+      },
+      {
+        "text": "Metropolitan Museum",
+        "alias": "searchfor",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "Wikipedia",
+        "alias": "service",
+        "meta": "@search-engine",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519938432
+  },
+  {
+    "id": "099eefc6-3941-47c2-920a-8d831f78b0a7",
+    "data": [
+      {
+        "text": "Any info about ",
+        "userDefined": false
+      },
+      {
+        "text": "Skrillex",
+        "alias": "searchfor",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519938432
+  },
+  {
+    "id": "165bdcbb-df8f-41b1-a6ff-bb6ee14c005c",
+    "data": [
+      {
+        "text": "find some information about ",
+        "userDefined": false
+      },
+      {
+        "text": "tekken",
+        "alias": "searchfor",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520788468
+  },
+  {
+    "id": "73413323-bc1b-4694-9e19-e5dc9215a063",
+    "data": [
+      {
+        "text": "google",
+        "alias": "service",
+        "meta": "@search-engine",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "David Bowie",
+        "alias": "searchfor",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1519938432
+  },
+  {
+    "id": "68cf2d4c-da77-4765-a762-4d49abb4226e",
+    "data": [
+      {
+        "text": "find ",
+        "userDefined": false
+      },
+      {
+        "text": "Pink\u0027s biography",
+        "alias": "searchfor",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "Wikipedia",
+        "alias": "service",
+        "meta": "@search-engine",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519938432
+  },
+  {
+    "id": "d3f55469-cf33-455d-b30b-054a7c2f2f86",
+    "data": [
+      {
+        "text": "look up ",
+        "userDefined": false
+      },
+      {
+        "text": "Monty Python",
+        "alias": "searchfor",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519938432
+  },
+  {
+    "id": "8e50bb3e-c383-4fcb-97c4-dd23a34062b7",
+    "data": [
+      {
+        "text": "give me information",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519937884
+  },
+  {
+    "id": "90c21206-366d-47fc-b091-782ef485f74c",
+    "data": [
+      {
+        "text": "search",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519937884
+  },
+  {
+    "id": "294f9a12-1e9e-4c10-bc8b-c451ee97b0ce",
+    "data": [
+      {
+        "text": "find ",
+        "userDefined": false
+      },
+      {
+        "text": "Lady Gaga\u0027s husband",
+        "alias": "searchfor",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " on the Internet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519938432
+  },
+  {
+    "id": "84cb934f-ebc9-4259-90ed-b723a9807128",
+    "data": [
+      {
+        "text": "web search",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519937884
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "id": "43cd6cf6-99b5-4407-b97f-83144fad828e",
+    "data": [
+      {
+        "text": "and ",
+        "userDefined": false
+      },
+      {
+        "text": "TV",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526074967
+  },
+  {
+    "id": "8121794e-c337-4b48-8f9d-13350c343235",
+    "data": [
+      {
+        "text": "Plus ",
+        "userDefined": false
+      },
+      {
+        "text": "TV",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526074967
+  },
+  {
+    "id": "eb65c17b-b5bf-494e-80d8-5d7a0f624b72",
+    "data": [
+      {
+        "text": "next is ",
+        "userDefined": false
+      },
+      {
+        "text": "TV",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526074967
+  },
+  {
+    "id": "7270b30f-d12d-4908-8aa9-9b9582ce4b37",
+    "data": [
+      {
+        "text": "please the ",
+        "userDefined": false
+      },
+      {
+        "text": "TV",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2fbc4f3a-49a7-4b9f-a823-34afa8563a34",
+    "data": [
+      {
+        "text": "Now ",
+        "userDefined": false
+      },
+      {
+        "text": "TV",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "16843c45-a7ec-48bf-ab38-ba5de87c4a65",
+    "data": [
+      {
+        "text": "what about the ",
+        "userDefined": false
+      },
+      {
+        "text": "TV",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8b60af72-f6c9-4bae-9b4d-13c16d5b9ace",
+    "data": [
+      {
+        "text": "The ",
+        "userDefined": false
+      },
+      {
+        "text": "Computer",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1507746414
+  },
+  {
+    "id": "25cfb028-3c1c-4ab6-8424-c42d9310349e",
+    "data": [
+      {
+        "text": "even the ",
+        "userDefined": false
+      },
+      {
+        "text": "motor",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507746414
+  },
+  {
+    "id": "9fe574fc-9ac6-46f8-bf50-479a5c5c6610",
+    "data": [
+      {
+        "text": "TV",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": false
+      },
+      {
+        "text": " too",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "319e86b2-f9c4-4609-a51a-b58fbdbf9cc9",
+    "data": [
+      {
+        "text": "also the ",
+        "userDefined": false
+      },
+      {
+        "text": "TV",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "48357875-97cf-4bdc-b5e8-cbc3129a03b3",
+    "data": [
+      {
+        "text": "And now the ",
+        "userDefined": false
+      },
+      {
+        "text": "TV",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

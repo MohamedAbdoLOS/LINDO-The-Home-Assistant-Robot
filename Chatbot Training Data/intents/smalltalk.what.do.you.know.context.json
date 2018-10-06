@@ -1,0 +1,48 @@
+{
+  "id": "3e7f3258-53f0-43ed-b323-7990544af77e",
+  "name": "smalltalk.what.do.you.know.context",
+  "auto": true,
+  "contexts": [
+    "whatdoyouknow-context"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "web.search",
+      "affectedContexts": [
+        {
+          "name": "whatdoyouknow-context",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "3cd6b2f9-5b44-4e28-9b83-66340727c3ed",
+          "dataType": "@sys.any",
+          "name": "any",
+          "value": "$any",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Not even that, so here is some information about $q.",
+            "Sorry i don\u0027t have any idea too, but here is some information about $q."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1507747846,
+  "fallbackIntent": false,
+  "events": []
+}

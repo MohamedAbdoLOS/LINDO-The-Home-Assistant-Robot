@@ -1,0 +1,66 @@
+[
+  {
+    "value": "Google",
+    "synonyms": [
+      "Google"
+    ]
+  },
+  {
+    "value": "DuckDuckGo",
+    "synonyms": [
+      "DuckDuckGo",
+      "Duck Duck Go"
+    ]
+  },
+  {
+    "value": "Yahoo",
+    "synonyms": [
+      "Yahoo"
+    ]
+  },
+  {
+    "value": "Baidu",
+    "synonyms": [
+      "Baidu"
+    ]
+  },
+  {
+    "value": "Amazon",
+    "synonyms": [
+      "Amazon"
+    ]
+  },
+  {
+    "value": "Ebay",
+    "synonyms": [
+      "Ebay"
+    ]
+  },
+  {
+    "value": "Wikipedia",
+    "synonyms": [
+      "Wikipedia",
+      "Wiki"
+    ]
+  },
+  {
+    "value": "Yandex",
+    "synonyms": [
+      "Yandex"
+    ]
+  },
+  {
+    "value": "WolframAlpha",
+    "synonyms": [
+      "WolframAlpha",
+      "Wolfram Alpha",
+      "Wolfram"
+    ]
+  },
+  {
+    "value": "Bing",
+    "synonyms": [
+      "Bing"
+    ]
+  }
+]

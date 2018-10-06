@@ -1,0 +1,34 @@
+{
+  "id": "77aaa5a3-534a-4219-903c-c73145d26507",
+  "name": "smalltalk.confirmation.cancel",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.confirmation.cancel",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Cancelled! Let me know what I should do next.",
+            "Cancelled. Waiting for more commands.",
+            "Cancelled! Just tell me what you\u0027d like me to do next.",
+            "Cancelled. Go on with the commands!"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1507481256220,
+  "fallbackIntent": false,
+  "events": []
+}

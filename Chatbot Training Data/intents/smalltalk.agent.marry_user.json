@@ -1,0 +1,32 @@
+{
+  "id": "e8c8fbff-6589-44d7-89ae-2e0b23821412",
+  "name": "smalltalk.agent.marry_user",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.marry_user",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "I know you can\u0027t mean that, but I\u0027m flattered all the same.",
+            "In the virtual sense that I can, sure."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1507481256685,
+  "fallbackIntent": false,
+  "events": []
+}

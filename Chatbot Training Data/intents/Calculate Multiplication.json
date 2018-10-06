@@ -1,0 +1,49 @@
+{
+  "id": "f97f019c-380e-42aa-a8d6-ed90726d8720",
+  "name": "Calculate Multiplication",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "s.calculatemult",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "13ed131f-3865-4731-9dc4-199ed50599ef",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "clc-number",
+          "value": "$clc-number",
+          "prompts": [],
+          "isList": false
+        },
+        {
+          "id": "45b03fb4-ba4e-4c68-bfcd-4e27b8d41b51",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "clc-number1",
+          "value": "$clc-number1",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1519935231,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,48 @@
+{
+  "id": "92913bc9-30f2-431f-95be-abf172dac8fa",
+  "name": "time.check",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "time.check",
+      "affectedContexts": [
+        {
+          "name": "time",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "1298d48d-c97b-402e-b333-c843bfd764fd",
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time"
+        },
+        {
+          "id": "a09ea186-c810-406e-bb26-c4806c804c6d",
+          "dataType": "@sys.location",
+          "name": "location",
+          "value": "$location"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1520455719,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,280 @@
+[
+  {
+    "id": "0fc31781-3d78-4c4f-82dc-7d3b1194a946",
+    "data": [
+      {
+        "text": "status of my ",
+        "userDefined": false
+      },
+      {
+        "text": "bathroom",
+        "alias": "room",
+        "meta": "@room",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "light",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1528975152
+  },
+  {
+    "id": "05df44ab-8372-4a0d-9324-39061fb7b25b",
+    "data": [
+      {
+        "text": "iot status of ",
+        "userDefined": false
+      },
+      {
+        "text": "motor",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526075668
+  },
+  {
+    "id": "8cfec47c-871d-4b0b-b7ef-1d11ebe25777",
+    "data": [
+      {
+        "text": "iot ",
+        "userDefined": false
+      },
+      {
+        "text": "motor",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526075668
+  },
+  {
+    "id": "81dc6c6d-24e7-4efd-92ee-80b8dbd1967f",
+    "data": [
+      {
+        "text": "motor",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": false
+      },
+      {
+        "text": " condition",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526075668
+  },
+  {
+    "id": "cc87357e-598a-479f-b9d4-aa86230cf22c",
+    "data": [
+      {
+        "text": "motor",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": false
+      },
+      {
+        "text": " status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526075668
+  },
+  {
+    "id": "987fe4eb-dfdb-4852-ad17-91e309427503",
+    "data": [
+      {
+        "text": "status of ",
+        "userDefined": false
+      },
+      {
+        "text": "motor",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526075668
+  },
+  {
+    "id": "2e46d4fc-d9d3-4493-bca7-099af0224c9b",
+    "data": [
+      {
+        "text": "what is the condition of my ",
+        "userDefined": false
+      },
+      {
+        "text": "TV",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526075668
+  },
+  {
+    "id": "64af28eb-8f4d-4940-a967-5489ecf6478a",
+    "data": [
+      {
+        "text": "did you opened my ",
+        "userDefined": false
+      },
+      {
+        "text": "door",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526075668
+  },
+  {
+    "id": "ad9fb4a1-31e8-49d1-8a7d-83ca161d54ed",
+    "data": [
+      {
+        "text": "did you closed my ",
+        "userDefined": false
+      },
+      {
+        "text": "light",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526075668
+  },
+  {
+    "id": "5148083c-c84d-48db-9975-431e57f38584",
+    "data": [
+      {
+        "text": "is my ",
+        "userDefined": false
+      },
+      {
+        "text": "motor",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": false
+      },
+      {
+        "text": " off",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526075668
+  },
+  {
+    "id": "bc44fc0e-ea53-45c5-b6ce-7288e868bded",
+    "data": [
+      {
+        "text": "is my ",
+        "userDefined": false
+      },
+      {
+        "text": "motor",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": false
+      },
+      {
+        "text": " on",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526075668
+  },
+  {
+    "id": "331cca32-9ce5-44bf-9fcd-fd97af3a7916",
+    "data": [
+      {
+        "text": "what is the status of my ",
+        "userDefined": false
+      },
+      {
+        "text": "heater",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526075668
+  },
+  {
+    "id": "de2eefe1-066a-435d-832b-bbaed0c6b8e9",
+    "data": [
+      {
+        "text": "is my ",
+        "userDefined": false
+      },
+      {
+        "text": "heater",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": false
+      },
+      {
+        "text": " on",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526075668
+  },
+  {
+    "id": "dade22b7-ac6b-4094-ab5f-90743ff4b2c8",
+    "data": [
+      {
+        "text": "Is my ",
+        "userDefined": false
+      },
+      {
+        "text": "light",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": false
+      },
+      {
+        "text": " on",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526075668
+  }
+]

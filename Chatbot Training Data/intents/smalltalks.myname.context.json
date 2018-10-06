@@ -1,0 +1,43 @@
+{
+  "id": "5416ba60-4025-4081-89f0-063a66f1272c",
+  "name": "smalltalks.myname.context",
+  "auto": true,
+  "contexts": [
+    "smalltalksnamefollower"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "88e4da23-e12d-45a7-b585-cc9ac3fdc189",
+          "required": false,
+          "dataType": "@sys.given-name",
+          "name": "given-name",
+          "value": "$given-name",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Nice to meet you $given-name.",
+            "it\u0027s nice to meet you $given-name",
+            "I am honored to meet you $given-name."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1526077342,
+  "fallbackIntent": false,
+  "events": []
+}

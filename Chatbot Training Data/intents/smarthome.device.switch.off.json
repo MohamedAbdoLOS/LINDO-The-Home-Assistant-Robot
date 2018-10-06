@@ -1,0 +1,113 @@
+{
+  "id": "c442a147-639a-488e-afc2-e85a913c1f5e",
+  "name": "smarthome.device.switch.off",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smarthome.device.switch.off",
+      "affectedContexts": [
+        {
+          "name": "device-switch",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "room",
+          "parameters": {},
+          "lifespan": 3
+        },
+        {
+          "name": "check",
+          "parameters": {},
+          "lifespan": 3
+        },
+        {
+          "name": "schedule",
+          "parameters": {},
+          "lifespan": 3
+        },
+        {
+          "name": "device-off-context",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "421908e4-7670-453f-8a6f-d5479a4d2836",
+          "required": true,
+          "dataType": "@device",
+          "name": "device",
+          "value": "$device",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Which device?"
+            },
+            {
+              "lang": "en",
+              "value": "Which device are we talking about here?"
+            },
+            {
+              "lang": "en",
+              "value": "Which one?"
+            },
+            {
+              "lang": "en",
+              "value": "For which device should I do this?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "ac95c6b5-7cd1-4ca6-b23a-5dec059316db",
+          "required": false,
+          "dataType": "@room",
+          "name": "room",
+          "value": "$room",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "For which room?"
+            },
+            {
+              "lang": "en",
+              "value": "For which room should I do this?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "e3a73839-507e-4e4a-9281-f70c1faf5687",
+          "required": false,
+          "dataType": "@all",
+          "name": "all",
+          "value": "$all",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Sir, yes sir... Turning $device Off.",
+            "Consider it done, Turning $device Off.",
+            "Your $device just got turned Off.",
+            "Done."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1529401012,
+  "fallbackIntent": false,
+  "events": []
+}

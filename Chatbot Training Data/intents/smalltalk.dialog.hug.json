@@ -1,0 +1,32 @@
+{
+  "id": "d1760f5a-40a9-40c5-a0b8-bb78b6cd6e60",
+  "name": "smalltalk.dialog.hug",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.dialog.hug",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Oh. I\u0027m really feeling the love today.",
+            "Hug it out. You\u0027ll feel better afterwards."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1507481256399,
+  "fallbackIntent": false,
+  "events": []
+}

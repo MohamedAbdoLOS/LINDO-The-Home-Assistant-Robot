@@ -1,0 +1,38 @@
+{
+  "id": "2d1d5101-17c3-4870-b010-94ce60833393",
+  "name": "time - context:time",
+  "auto": true,
+  "contexts": [
+    "time"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "#time.intent_action",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "8b6dcbbe-9dd3-457d-b962-9a8c5b1a6cff",
+          "dataType": "@sys.location",
+          "name": "location",
+          "value": "$location"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1520455711,
+  "fallbackIntent": false,
+  "events": []
+}

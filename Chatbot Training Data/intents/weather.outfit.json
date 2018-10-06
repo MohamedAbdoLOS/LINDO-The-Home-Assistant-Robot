@@ -1,0 +1,62 @@
+{
+  "id": "b5383dd4-59af-43ec-8708-fada41be775f",
+  "name": "weather.outfit",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "weather.outfit",
+      "affectedContexts": [
+        {
+          "name": "weather",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "9fc86580-8862-42c0-b4de-bca560f2e015",
+          "dataType": "@outfit",
+          "name": "outfit",
+          "value": "$outfit",
+          "prompts": [],
+          "isList": false
+        },
+        {
+          "id": "a26f6280-54cb-40ad-aa24-c38e1341a96d",
+          "dataType": "@sys.location",
+          "name": "address",
+          "value": "$address",
+          "prompts": [],
+          "defaultValue": "",
+          "isList": false
+        },
+        {
+          "id": "c1274e2f-4280-4415-b31b-49a88bfc70ea",
+          "dataType": "@sys.date-time",
+          "name": "date-time",
+          "value": "$date-time",
+          "prompts": [],
+          "defaultValue": "",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1507900867258,
+  "fallbackIntent": false,
+  "events": []
+}

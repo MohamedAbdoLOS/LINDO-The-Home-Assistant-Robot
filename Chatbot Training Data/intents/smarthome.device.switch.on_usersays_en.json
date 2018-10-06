@@ -1,0 +1,2082 @@
+[
+  {
+    "id": "fce9bd73-00b8-4648-8bba-66d22556ee8d",
+    "data": [
+      {
+        "text": "all",
+        "alias": "all",
+        "meta": "@all",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "lights",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": false
+      },
+      {
+        "text": " to be turned on",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529400968
+  },
+  {
+    "id": "1160ff33-c1ab-40a4-a7ae-7aa8218072c4",
+    "data": [
+      {
+        "text": "turn on ",
+        "userDefined": false
+      },
+      {
+        "text": "all",
+        "alias": "all",
+        "meta": "@all",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "lights",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529400968
+  },
+  {
+    "id": "3cbae87d-3413-40a3-b546-cf07e32e953e",
+    "data": [
+      {
+        "text": "turn ",
+        "userDefined": false
+      },
+      {
+        "text": "all",
+        "alias": "all",
+        "meta": "@all",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "lights",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": false
+      },
+      {
+        "text": " on",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529400968
+  },
+  {
+    "id": "167b2929-d2cd-4c2b-9506-8f3e30d20eca",
+    "data": [
+      {
+        "text": "turn on ",
+        "userDefined": false
+      },
+      {
+        "text": "hall",
+        "alias": "room",
+        "meta": "@room",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "light",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529356989
+  },
+  {
+    "id": "a1cee7c0-9fff-439e-8ba9-f66c0673642e",
+    "data": [
+      {
+        "text": "turn on ",
+        "userDefined": false
+      },
+      {
+        "text": "coffee machine",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529356989
+  },
+  {
+    "id": "bdd182f6-4e30-46e8-b901-805b9e6d98e8",
+    "data": [
+      {
+        "text": "turn on the ",
+        "userDefined": false
+      },
+      {
+        "text": "television",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1520276817
+  },
+  {
+    "id": "91c68491-aa2f-4747-b39b-74eff0661be4",
+    "data": [
+      {
+        "text": "start the ",
+        "userDefined": false
+      },
+      {
+        "text": "tv",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520276817
+  },
+  {
+    "id": "258297ee-4c7b-4364-84f5-1793f3030ef0",
+    "data": [
+      {
+        "text": "I want to turn on my device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529356989
+  },
+  {
+    "id": "2e0439ec-eea1-4a61-a87f-9bc1e0c3308f",
+    "data": [
+      {
+        "text": "I want to turn on appliance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529356989
+  },
+  {
+    "id": "33d1ff79-4c87-46c5-bc71-a9120a504723",
+    "data": [
+      {
+        "text": "you should turn my device on",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529356989
+  },
+  {
+    "id": "60d2c6e4-09dd-4f6b-b057-a0e6acbdff6b",
+    "data": [
+      {
+        "text": "turn on ",
+        "userDefined": false
+      },
+      {
+        "text": "kitchen",
+        "alias": "room",
+        "meta": "@room",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529356989
+  },
+  {
+    "id": "1ba24790-919c-4792-a7ac-eef67c79c05e",
+    "data": [
+      {
+        "text": "can you turn on my device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529356989
+  },
+  {
+    "id": "e75f8670-75c4-419b-ae6a-28d03c744c9a",
+    "data": [
+      {
+        "text": "can you turn on appliance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529356989
+  },
+  {
+    "id": "a8f3d312-0654-49e6-8050-2cd077bf153a",
+    "data": [
+      {
+        "text": "turn on the ",
+        "userDefined": false
+      },
+      {
+        "text": "coffee maker",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1529356989
+  },
+  {
+    "id": "477504e2-4c9e-4a9d-982b-e21826a6a578",
+    "data": [
+      {
+        "text": "can you turn on my ",
+        "userDefined": false
+      },
+      {
+        "text": "television",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1528593404
+  },
+  {
+    "id": "18a9da4f-6616-4f28-8146-66c77a8b3047",
+    "data": [
+      {
+        "text": "please turn on my device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528593404
+  },
+  {
+    "id": "ba87fff0-d745-42be-a570-d0adf1a2d63a",
+    "data": [
+      {
+        "text": "turn on my ",
+        "userDefined": false
+      },
+      {
+        "text": "TV",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1528593404
+  },
+  {
+    "id": "d5e249f3-d4d6-46dd-a94a-5d40ae20bd80",
+    "data": [
+      {
+        "text": "you should turn the device on",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528593404
+  },
+  {
+    "id": "b1176f4d-dcff-4075-a9c2-022873999459",
+    "data": [
+      {
+        "text": "please turn on ",
+        "userDefined": false
+      },
+      {
+        "text": "illumination",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528593404
+  },
+  {
+    "id": "1fd7aaa7-7cb6-4df0-b199-b5e0e9cbdb84",
+    "data": [
+      {
+        "text": "turn ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "TV",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "everywhere",
+        "alias": "all",
+        "meta": "@all",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520276817
+  },
+  {
+    "id": "0c9a4c9f-5267-4c45-8546-52e7349b29df",
+    "data": [
+      {
+        "text": "turn on appliance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528593404
+  },
+  {
+    "id": "59d472d4-22d4-4d40-85d4-3f29f3989847",
+    "data": [
+      {
+        "text": "turn my device on for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520276817
+  },
+  {
+    "id": "5826fc71-89de-486e-a4f4-0a5838830ea3",
+    "data": [
+      {
+        "text": "turn ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "TV",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": true
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520276817
+  },
+  {
+    "id": "a4d323a8-fa90-482b-8302-4165713d0bb7",
+    "data": [
+      {
+        "text": "I need you to turn on device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528593404
+  },
+  {
+    "id": "1dfc096d-4286-4170-afe1-5183934f24e9",
+    "data": [
+      {
+        "text": "please turn on the ",
+        "userDefined": false
+      },
+      {
+        "text": "TV",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": true
+      },
+      {
+        "text": " in the ",
+        "userDefined": false
+      },
+      {
+        "text": "kitchen",
+        "alias": "room",
+        "meta": "@room",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528593404
+  },
+  {
+    "id": "2b3c338c-e867-42b4-908b-fc1aa77aa97c",
+    "data": [
+      {
+        "text": "can you turn on ",
+        "userDefined": false
+      },
+      {
+        "text": "water cooker",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": true
+      },
+      {
+        "text": " for me please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528593404
+  },
+  {
+    "id": "008b28cc-ceb2-401c-98fd-7d4de6ec3f67",
+    "data": [
+      {
+        "text": "turn ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " my device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520276817
+  },
+  {
+    "id": "a2a5fbcb-a372-400e-a2e3-0f5daf87afa0",
+    "data": [
+      {
+        "text": "turn on the ",
+        "userDefined": false
+      },
+      {
+        "text": "video player",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1528593404
+  },
+  {
+    "id": "58288386-2b83-40eb-b3d5-ba5e9f024662",
+    "data": [
+      {
+        "text": "turn the ",
+        "userDefined": false
+      },
+      {
+        "text": "office",
+        "alias": "room",
+        "meta": "@room",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "light",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": false
+      },
+      {
+        "text": " on",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520276817
+  },
+  {
+    "id": "79236582-3d0f-40a0-8186-0e792da1f507",
+    "data": [
+      {
+        "text": "turn on ",
+        "userDefined": false
+      },
+      {
+        "text": "all",
+        "alias": "all",
+        "meta": "@all",
+        "userDefined": true
+      },
+      {
+        "text": " appliances",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1528593404
+  },
+  {
+    "id": "f57d2ad2-79f7-454c-8f67-1504cbd5fd24",
+    "data": [
+      {
+        "text": "can you turn on ",
+        "userDefined": false
+      },
+      {
+        "text": "TV",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": true
+      },
+      {
+        "text": " for me please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528593404
+  },
+  {
+    "id": "a27304d0-caf5-4d1c-881a-4a5ea16ad951",
+    "data": [
+      {
+        "text": "turn on my ",
+        "userDefined": false
+      },
+      {
+        "text": "computer",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1528593404
+  },
+  {
+    "id": "a9b3e81d-245b-4305-b787-ee676023be49",
+    "data": [
+      {
+        "text": "will you turn on the ",
+        "userDefined": false
+      },
+      {
+        "text": "TV",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": true
+      },
+      {
+        "text": " for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528593404
+  },
+  {
+    "id": "8350ed08-d873-4a63-886c-f62bd508dc4c",
+    "data": [
+      {
+        "text": "open the ",
+        "userDefined": false
+      },
+      {
+        "text": "tv",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520276817
+  },
+  {
+    "id": "10820c0d-2a87-4801-8bca-c2178a00dbcf",
+    "data": [
+      {
+        "text": "switch the ",
+        "userDefined": false
+      },
+      {
+        "text": "light",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": true
+      },
+      {
+        "text": " on",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520276817
+  },
+  {
+    "id": "5b0e0a05-4aae-46c0-8438-558fba8e9b09",
+    "data": [
+      {
+        "text": "can you turn ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "water cooker",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": true
+      },
+      {
+        "text": " in the ",
+        "userDefined": false
+      },
+      {
+        "text": "kitchen",
+        "alias": "room",
+        "meta": "@room",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520276817
+  },
+  {
+    "id": "20b26f4c-1400-4c21-8103-a26fb5f258f0",
+    "data": [
+      {
+        "text": "can you turn on ",
+        "userDefined": false
+      },
+      {
+        "text": "humidifier",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": true
+      },
+      {
+        "text": " for me please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1528593404
+  },
+  {
+    "id": "f92831c8-4af9-404b-9305-57c9e32ab8e9",
+    "data": [
+      {
+        "text": "turn",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "air conditioning",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528593404
+  },
+  {
+    "id": "a280e30b-4bb7-4695-a69a-e0ad10386a31",
+    "data": [
+      {
+        "text": "turn on device for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528593404
+  },
+  {
+    "id": "bd3a7738-e7ae-459f-bc27-23eb1d1aaea2",
+    "data": [
+      {
+        "text": "I need you to turn on appliance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528593404
+  },
+  {
+    "id": "752897e9-f79e-426c-8f6a-820634f499c6",
+    "data": [
+      {
+        "text": "turn ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "coffee pot",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528593404
+  },
+  {
+    "id": "f17a368a-cf8d-4136-ae13-ddd30ebb7e7a",
+    "data": [
+      {
+        "text": "can you turn on device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528593404
+  },
+  {
+    "id": "02982424-1066-45c6-8424-a4334e2f5848",
+    "data": [
+      {
+        "text": "turn ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "TV",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "foyer",
+        "alias": "room",
+        "meta": "@room",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520276817
+  },
+  {
+    "id": "ddb55763-7990-4718-b1ea-9340b1fbfad9",
+    "data": [
+      {
+        "text": "can you please turn on ",
+        "userDefined": false
+      },
+      {
+        "text": "coffee machine",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": true
+      },
+      {
+        "text": " for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528593404
+  },
+  {
+    "id": "3d8e53bf-7350-436a-ac32-0bf3f126d725",
+    "data": [
+      {
+        "text": "turn on device please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528593404
+  },
+  {
+    "id": "36f179c1-2a8d-4bb6-b231-69810d3ee240",
+    "data": [
+      {
+        "text": "turn them ",
+        "userDefined": false
+      },
+      {
+        "text": "all",
+        "alias": "all",
+        "meta": "@all",
+        "userDefined": false
+      },
+      {
+        "text": " on",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520276817
+  },
+  {
+    "id": "0ac449bd-9e45-4d27-be35-16d9f156eda8",
+    "data": [
+      {
+        "text": "turn on ",
+        "userDefined": false
+      },
+      {
+        "text": "air conditioner",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1520276817
+  },
+  {
+    "id": "054162ab-9d5e-41e4-8b55-cc560c78f9d1",
+    "data": [
+      {
+        "text": "turn the device ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520276817
+  },
+  {
+    "id": "59f9a1ba-3172-4f9a-bb5e-9c9ddd33cf5c",
+    "data": [
+      {
+        "text": "switch the device on",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528593404
+  },
+  {
+    "id": "34325ce8-c5b0-4082-b6f5-f5ec6ac74175",
+    "data": [
+      {
+        "text": "switch on the device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528593404
+  },
+  {
+    "id": "6e9c55aa-7fd3-4334-bcc1-ceb633376a5c",
+    "data": [
+      {
+        "text": "turn on device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528593404
+  },
+  {
+    "id": "a412db04-6d11-4c5d-84e0-fd24edcb0df7",
+    "data": [
+      {
+        "text": "turn on appliance for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1528593404
+  },
+  {
+    "id": "82dc2f4c-dcc9-4a56-a885-dcf54dc39370",
+    "data": [
+      {
+        "text": "I want to turn ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1520276817
+  },
+  {
+    "id": "304001e2-ab5e-48af-b490-c339b2eb4120",
+    "data": [
+      {
+        "text": "turn ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "computer",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520276817
+  },
+  {
+    "id": "3800b37a-b411-4f70-b9e3-cc2ded988af8",
+    "data": [
+      {
+        "text": "would you open my ",
+        "userDefined": false
+      },
+      {
+        "text": "door",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528593404
+  },
+  {
+    "id": "2fafc783-1572-4390-a90e-71205f456df0",
+    "data": [
+      {
+        "text": "open my ",
+        "userDefined": false
+      },
+      {
+        "text": "door",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528593404
+  },
+  {
+    "id": "88c73449-4184-424b-9c02-5ae5895ef305",
+    "data": [
+      {
+        "text": "you should turn the appliance on",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1528593404
+  },
+  {
+    "id": "72eeb4fd-10d8-439e-a8d1-0b34529480c5",
+    "data": [
+      {
+        "text": "please turn on appliance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528593404
+  },
+  {
+    "id": "afd3e5f9-2c10-43aa-91c5-41775295ae68",
+    "data": [
+      {
+        "text": "turn on ",
+        "userDefined": false
+      },
+      {
+        "text": "PC",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528593404
+  },
+  {
+    "id": "11c8d4d9-3764-443b-9023-70eb07c12d08",
+    "data": [
+      {
+        "text": "can you turn on ",
+        "userDefined": false
+      },
+      {
+        "text": "washing machine",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": true
+      },
+      {
+        "text": " in the ",
+        "userDefined": false
+      },
+      {
+        "text": "kitchen",
+        "alias": "room",
+        "meta": "@room",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528593404
+  },
+  {
+    "id": "b11e8972-d80f-4d16-ac02-db0a0fc7ee6a",
+    "data": [
+      {
+        "text": "turn on devices in ",
+        "userDefined": false
+      },
+      {
+        "text": "bathroom",
+        "alias": "room",
+        "meta": "@room",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528593404
+  },
+  {
+    "id": "a187fac8-f935-4cf0-88d9-2fcf870144a6",
+    "data": [
+      {
+        "text": "turn on",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528593404
+  },
+  {
+    "id": "a905d5b5-56cb-4efd-9176-5073de52f02f",
+    "data": [
+      {
+        "text": "turn ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "washing machine",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": true
+      },
+      {
+        "text": " in the ",
+        "userDefined": false
+      },
+      {
+        "text": "kitchen",
+        "alias": "room",
+        "meta": "@room",
+        "userDefined": true
+      },
+      {
+        "text": " for me please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520276817
+  },
+  {
+    "id": "60eefed5-60e3-4c07-97e2-9bed256b8ffa",
+    "data": [
+      {
+        "text": "can you turn on ",
+        "userDefined": false
+      },
+      {
+        "text": "video player",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528593404
+  },
+  {
+    "id": "a47dfcbe-35a4-473c-b321-c301b1cb9323",
+    "data": [
+      {
+        "text": "please turn on device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528593404
+  },
+  {
+    "id": "b379637e-c862-49e9-ad5b-4de58ad69e91",
+    "data": [
+      {
+        "text": "TV",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528593404
+  },
+  {
+    "id": "a075807d-4d9f-4f8f-a4d8-ddb3872252ea",
+    "data": [
+      {
+        "text": "turn on my ",
+        "userDefined": false
+      },
+      {
+        "text": "laptop",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520276817
+  },
+  {
+    "id": "7650f181-fc76-4c1a-80b4-0f5825ac93d3",
+    "data": [
+      {
+        "text": "turn on ",
+        "userDefined": false
+      },
+      {
+        "text": "all",
+        "alias": "all",
+        "meta": "@all",
+        "userDefined": true
+      },
+      {
+        "text": " devices",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520276817
+  },
+  {
+    "id": "d9bfe6de-5d34-494d-bfa6-9951531ee64c",
+    "data": [
+      {
+        "text": "can you turn on ",
+        "userDefined": false
+      },
+      {
+        "text": "washing machine",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": true
+      },
+      {
+        "text": " for me please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520276817
+  },
+  {
+    "id": "888a553e-3099-47e7-9b84-340fb331bf9b",
+    "data": [
+      {
+        "text": "turn on the ",
+        "userDefined": false
+      },
+      {
+        "text": "refrigerator",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1520276817
+  },
+  {
+    "id": "1688a2dc-888f-4b0f-8d99-349998f486a5",
+    "data": [
+      {
+        "text": "can you turn on ",
+        "userDefined": false
+      },
+      {
+        "text": "microwave",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": true
+      },
+      {
+        "text": " for me please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520276817
+  },
+  {
+    "id": "d1fd9f96-f32c-41d5-99fd-6fa07eff68d4",
+    "data": [
+      {
+        "text": "turn on ",
+        "userDefined": false
+      },
+      {
+        "text": "TV",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1520276817
+  },
+  {
+    "id": "04341078-1e41-45ad-ae5e-5ccdb7e72693",
+    "data": [
+      {
+        "text": "turn on the ",
+        "userDefined": false
+      },
+      {
+        "text": "air conditioning",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520276817
+  },
+  {
+    "id": "a2cc4a87-ce7c-4388-a550-9995bad77818",
+    "data": [
+      {
+        "text": "can you turn on ",
+        "userDefined": false
+      },
+      {
+        "text": "washing machine",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520276817
+  },
+  {
+    "id": "47251036-d140-4754-b709-8da01814e190",
+    "data": [
+      {
+        "text": "turn on my device for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1520276817
+  },
+  {
+    "id": "1b82dae3-7b24-4a5c-81e9-1652b4009fcc",
+    "data": [
+      {
+        "text": "can you turn on ",
+        "userDefined": false
+      },
+      {
+        "text": "video player",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": true
+      },
+      {
+        "text": " for me please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520276817
+  },
+  {
+    "id": "0820508e-4364-428e-97f7-629e9d331850",
+    "data": [
+      {
+        "text": "turn on the ",
+        "userDefined": false
+      },
+      {
+        "text": "outdoor",
+        "alias": "room",
+        "meta": "@room",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "decorations",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1520276817
+  },
+  {
+    "id": "27b6ef36-c685-45f0-8d4b-74704e50dd0d",
+    "data": [
+      {
+        "text": "can you turn on ",
+        "userDefined": false
+      },
+      {
+        "text": "air conditioner",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": true
+      },
+      {
+        "text": " for me please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520276817
+  },
+  {
+    "id": "b7c751cc-4fce-41e7-a18b-2cd5a52e0158",
+    "data": [
+      {
+        "text": "turn on ",
+        "userDefined": false
+      },
+      {
+        "text": "motion sensor",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520276817
+  },
+  {
+    "id": "796b24f9-71a1-441b-a1c5-193b33c8efab",
+    "data": [
+      {
+        "text": "will you turn on the ",
+        "userDefined": false
+      },
+      {
+        "text": "TV",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": true
+      },
+      {
+        "text": " in the ",
+        "userDefined": false
+      },
+      {
+        "text": "kitchen",
+        "alias": "room",
+        "meta": "@room",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520276817
+  },
+  {
+    "id": "10c69dfa-ac6e-4eff-bf8b-9784aeb169b6",
+    "data": [
+      {
+        "text": "turn on the ",
+        "userDefined": false
+      },
+      {
+        "text": "water cooker",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": true
+      },
+      {
+        "text": " in the ",
+        "userDefined": false
+      },
+      {
+        "text": "kitchen",
+        "alias": "room",
+        "meta": "@room",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1520276817
+  },
+  {
+    "id": "b60765cc-3927-4e21-befe-7cfc37906739",
+    "data": [
+      {
+        "text": "can you turn on ",
+        "userDefined": false
+      },
+      {
+        "text": "dishwasher",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": true
+      },
+      {
+        "text": " in the ",
+        "userDefined": false
+      },
+      {
+        "text": "kitchen",
+        "alias": "room",
+        "meta": "@room",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520276817
+  },
+  {
+    "id": "dee7b8aa-64a2-4b39-a7cc-1955ee5d7e38",
+    "data": [
+      {
+        "text": "turn the appliance on",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520276817
+  },
+  {
+    "id": "ec8edbd2-aa28-4527-bc09-12bd2058b76a",
+    "data": [
+      {
+        "text": "I need you to turn on my device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520276817
+  },
+  {
+    "id": "b0b4180c-6ac8-4dce-8627-b53e25fcc47a",
+    "data": [
+      {
+        "text": "turn on my device please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520276817
+  },
+  {
+    "id": "9536d349-0e9b-4d45-9f77-f96de33d5205",
+    "data": [
+      {
+        "text": "turn the device on",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520276817
+  },
+  {
+    "id": "c522a2c7-78e0-4b83-a253-42a35503e6b2",
+    "data": [
+      {
+        "text": "turn on ",
+        "userDefined": false
+      },
+      {
+        "text": "all",
+        "alias": "all",
+        "meta": "@all",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "things",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520276817
+  },
+  {
+    "id": "1809eb6a-778e-4dc7-9698-1284b2d25ee5",
+    "data": [
+      {
+        "text": "turn on ",
+        "userDefined": false
+      },
+      {
+        "text": "table lamp",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520276817
+  },
+  {
+    "id": "cca13302-dbc4-498b-b878-52ddc15912b3",
+    "data": [
+      {
+        "text": "motion sensor",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": true
+      },
+      {
+        "text": " on",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520276817
+  },
+  {
+    "id": "7ebc896d-0047-4824-a478-77ad91784872",
+    "data": [
+      {
+        "text": "turn on appliance please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520276817
+  },
+  {
+    "id": "b32f9860-b87c-4f24-acd1-7c4bff3d095c",
+    "data": [
+      {
+        "text": "turn on the ",
+        "userDefined": false
+      },
+      {
+        "text": "TV",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": true
+      },
+      {
+        "text": " in the ",
+        "userDefined": false
+      },
+      {
+        "text": "kitchen",
+        "alias": "room",
+        "meta": "@room",
+        "userDefined": true
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520276817
+  },
+  {
+    "id": "fb57caf6-77ab-4efc-8238-29735a1c8d0a",
+    "data": [
+      {
+        "text": "please turn on ",
+        "userDefined": false
+      },
+      {
+        "text": "computer",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520276817
+  },
+  {
+    "id": "60a1a230-11d5-4f0b-9ac5-4dcf8b1546d1",
+    "data": [
+      {
+        "text": "turn on ",
+        "userDefined": false
+      },
+      {
+        "text": "bathroom",
+        "alias": "room",
+        "meta": "@room",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520276817
+  },
+  {
+    "id": "c08627dc-9f75-4cf0-87c8-777c163193b0",
+    "data": [
+      {
+        "text": "turn my device on",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520276817
+  },
+  {
+    "id": "58a7ec3d-4a30-4515-9a08-750233878f40",
+    "data": [
+      {
+        "text": "turn on the ",
+        "userDefined": false
+      },
+      {
+        "text": "washing machine",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1520276817
+  },
+  {
+    "id": "8db5b5a2-b8b3-40ca-9b14-e66d51c986d1",
+    "data": [
+      {
+        "text": "turn ",
+        "userDefined": false
+      },
+      {
+        "text": "thermostat",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": true
+      },
+      {
+        "text": " on in the ",
+        "userDefined": false
+      },
+      {
+        "text": "kitchen",
+        "alias": "room",
+        "meta": "@room",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520276817
+  },
+  {
+    "id": "fc736246-5bc1-4144-98a5-088ffd43ceda",
+    "data": [
+      {
+        "text": "can you turn on ",
+        "userDefined": false
+      },
+      {
+        "text": "video player",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": true
+      },
+      {
+        "text": " in the ",
+        "userDefined": false
+      },
+      {
+        "text": "kitchen",
+        "alias": "room",
+        "meta": "@room",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520276817
+  },
+  {
+    "id": "fdaee560-b101-4a08-8a25-b9c907ea9218",
+    "data": [
+      {
+        "text": "turn on the ",
+        "userDefined": false
+      },
+      {
+        "text": "electric blanket",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1520276817
+  },
+  {
+    "id": "3b6ad599-ccca-4d8d-af67-4b069987edd2",
+    "data": [
+      {
+        "text": "can you turn on ",
+        "userDefined": false
+      },
+      {
+        "text": "refrigerator",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": true
+      },
+      {
+        "text": " for me please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520276817
+  },
+  {
+    "id": "468a3da7-e342-40c1-b305-74f87f51a15e",
+    "data": [
+      {
+        "text": "turn on ",
+        "userDefined": false
+      },
+      {
+        "text": "everything",
+        "alias": "all",
+        "meta": "@all",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1520276817
+  },
+  {
+    "id": "8e7a7f4e-f00f-482f-8a35-932a16dba8fb",
+    "data": [
+      {
+        "text": "turn on ",
+        "userDefined": false
+      },
+      {
+        "text": "Christmas tree",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520276817
+  },
+  {
+    "id": "6e42596c-18f6-4091-bc46-771c76c734c0",
+    "data": [
+      {
+        "text": "can you turn on ",
+        "userDefined": false
+      },
+      {
+        "text": "water cooker",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520276817
+  },
+  {
+    "id": "3e5fb372-1113-4d48-9278-48d5bdc4af67",
+    "data": [
+      {
+        "text": "turn the appliance on for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520276817
+  },
+  {
+    "id": "69280406-1482-4929-9c02-4f961427b4f4",
+    "data": [
+      {
+        "text": "can you turn on ",
+        "userDefined": false
+      },
+      {
+        "text": "computer",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": true
+      },
+      {
+        "text": " for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520276817
+  },
+  {
+    "id": "2425bc8b-ba87-4bba-86e4-02a278abd2ad",
+    "data": [
+      {
+        "text": "turn on ",
+        "userDefined": false
+      },
+      {
+        "text": "TV",
+        "alias": "device",
+        "meta": "@device",
+        "userDefined": true
+      },
+      {
+        "text": " in the ",
+        "userDefined": false
+      },
+      {
+        "text": "kitchen",
+        "alias": "room",
+        "meta": "@room",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1520276817
+  }
+]

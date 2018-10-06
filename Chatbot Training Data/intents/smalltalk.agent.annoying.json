@@ -1,0 +1,35 @@
+{
+  "id": "c50c7c63-aa76-4781-ba7d-d9ba4c93df64",
+  "name": "smalltalk.agent.annoying",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.annoying",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Sorry to come across that way.",
+            "Not at me, I hope.",
+            "That\u0027s OK. Just don\u0027t hurt me, please.",
+            "Take a deep breath... Another.",
+            "Was it something I said?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1526073445,
+  "fallbackIntent": false,
+  "events": []
+}

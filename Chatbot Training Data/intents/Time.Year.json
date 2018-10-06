@@ -1,0 +1,29 @@
+{
+  "id": "407463d0-e1c0-4357-9e44-d4b91c9cc8ea",
+  "name": "Time.Year",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "year.get",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1520798527,
+  "fallbackIntent": false,
+  "events": []
+}

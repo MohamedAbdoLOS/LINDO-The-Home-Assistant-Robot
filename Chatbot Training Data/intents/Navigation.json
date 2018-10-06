@@ -1,0 +1,48 @@
+{
+  "id": "60b72efa-af12-43d9-a876-56186d0ffc0f",
+  "name": "Navigation",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "map.navi",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d1a9f196-4cab-420e-91fd-de71a2b9a809",
+          "required": true,
+          "dataType": "@addressEnt",
+          "name": "address",
+          "value": "$address",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What is the address ?"
+            },
+            {
+              "lang": "en",
+              "value": "Can you say the address again?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1520979895,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,29 @@
+{
+  "id": "b96c1f79-28d5-4140-abb1-a60f5ca224e7",
+  "name": "setup.push",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "setup.push",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528602565,
+  "fallbackIntent": false,
+  "events": []
+}

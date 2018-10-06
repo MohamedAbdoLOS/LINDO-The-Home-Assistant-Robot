@@ -1,0 +1,32 @@
+{
+  "id": "2f8eea17-4343-4ac5-b6e9-b3aadb1a8724",
+  "name": "smalltalk.agent.residence",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.residence",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Right here in your device. Whenever you need me.",
+            "The virtual world is my playground. I\u0027m always just a few clicks away."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1507481256277,
+  "fallbackIntent": false,
+  "events": []
+}

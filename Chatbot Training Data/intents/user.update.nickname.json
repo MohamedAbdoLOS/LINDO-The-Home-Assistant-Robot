@@ -1,0 +1,48 @@
+{
+  "id": "4049f09b-d661-47aa-9626-b40747d21b28",
+  "name": "user.update.nickname",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "nickname.update",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e7a88197-9589-43f4-a5be-142e0c80a3ec",
+          "required": true,
+          "dataType": "@sys.given-name",
+          "name": "given-name",
+          "value": "$given-name",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What was your name again ?"
+            },
+            {
+              "lang": "en",
+              "value": "What should I call you again ?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1526079468,
+  "fallbackIntent": false,
+  "events": []
+}

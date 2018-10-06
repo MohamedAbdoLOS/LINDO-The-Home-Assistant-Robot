@@ -1,0 +1,56 @@
+{
+  "id": "4369bb41-d193-48f4-8ce9-0bb963a02a02",
+  "name": "time.convert",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "time.convert",
+      "affectedContexts": [
+        {
+          "name": "convert-time",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "d608d443-6295-4735-8fcf-d9f4fa827fa7",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "time-from",
+          "value": "$time-from",
+          "defaultValue": ""
+        },
+        {
+          "id": "34dc91f5-1b30-4087-8cad-fffb80817ff4",
+          "dataType": "@sys.location",
+          "name": "location-from",
+          "value": "$location-from"
+        },
+        {
+          "id": "538cbae9-b74a-465e-ba0f-abff4ec0a663",
+          "dataType": "@sys.location",
+          "name": "location-to",
+          "value": "$location-to"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1520455736,
+  "fallbackIntent": false,
+  "events": []
+}

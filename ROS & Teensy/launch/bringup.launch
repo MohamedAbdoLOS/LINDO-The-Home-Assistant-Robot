@@ -1,0 +1,19 @@
+<launch>
+    <!-- Start ROS communication between the robot's computer and Linorobot base -->
+    <node pkg="rosserial_python" name="rosserial_lindo" type="serial_node.py" output="screen">
+        <param name="port" value="/dev/lindobase" />
+        <param name="baud" value="57600" />
+    </node>
+
+    <!-- IMU Relay and Filter -->
+    <include file="$(find lindorobot)/launch/include/imu/imu.launch" />
+
+    <!-- Publish Linorobot odometry -->
+    <node pkg="lindorobot" name="lindo_base_node" type="lindo_base_node"></node>
+
+    <!-- Publish static transform from base_footprint to base_link -->
+    <node pkg="tf" type="static_transform_publisher" name="base_footprint_to_base_link" args="0 0 0.098 0 0 0  /base_footprint /base_link  100"/>
+
+    <!-- Run Linorobot compatible laser drivers -->
+    <include file="$(find lindorobot)/launch/include/laser.launch" />
+</launch>

@@ -1,0 +1,39 @@
+{
+  "id": "8211caf1-6167-4d7a-bf2d-099c557f73cc",
+  "name": "smalltalks.myname",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "smalltalksnamefollower",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "My name is LINDO, what about you ?",
+            "You can call me LINDO, what should I call you ?",
+            "My name is LINDO, what is your name ?",
+            "LINDO is my name, what is yours ?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1520701943,
+  "fallbackIntent": false,
+  "events": []
+}

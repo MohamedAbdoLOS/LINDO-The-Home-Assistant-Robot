@@ -1,0 +1,33 @@
+{
+  "id": "9eb79d3d-1f43-4560-acb4-d3a390bc731c",
+  "name": "smalltalk.greetings.goodmorning",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.greetings.goodmorning",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "How are you this morning?",
+            "How\u0027s the morning treating you so far?",
+            "Good morning! How are you today?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1519999660,
+  "fallbackIntent": false,
+  "events": []
+}

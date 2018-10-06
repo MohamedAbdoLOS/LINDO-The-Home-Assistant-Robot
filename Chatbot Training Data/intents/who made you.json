@@ -1,0 +1,31 @@
+{
+  "id": "7fff5c4d-9bd6-4d06-8547-9708b30c3245",
+  "name": "who made you",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "I was designed by AWAKEN team Members, Mohamed Abdo, Islam El-Nadgy, Ahmed Hamed and Mahmoud Mahmoud.",
+            "I, LINDO, was designed by team AWAKEN from MUST university."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1529400838,
+  "fallbackIntent": false,
+  "events": []
+}

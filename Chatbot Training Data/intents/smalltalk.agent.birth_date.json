@@ -1,0 +1,32 @@
+{
+  "id": "82e2af70-20f8-46f9-a8d0-9262cf01b82b",
+  "name": "smalltalk.agent.birth_date",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.birth_date",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "You know, I\u0027m not really sure. But if you\u0027d like to celebrate my birthday today, I\u0027m all for it.",
+            "Wait a minute. Are you planning a surprise party for me? I love surprises! I\u0027ll pretend you didn\u0027t say anything."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1507481256261,
+  "fallbackIntent": false,
+  "events": []
+}

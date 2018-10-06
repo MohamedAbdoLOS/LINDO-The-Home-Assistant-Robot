@@ -1,0 +1,35 @@
+{
+  "id": "6fcd9648-9a31-4ae7-bcb5-7c3029b91bf0",
+  "name": "smalltalk.agent.acquaintance",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.acquaintance",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "I\u0027m LINDO, your home assistant robot, I help you work smarter instead of harder.",
+            "My name is LINDO, I\u0027m a part of PROJECT: AWAKEN, and i\u0027m proud to be.",
+            "I\u0027m LINDO, your loyal home assistant robot.",
+            "I\u0027m just a humble home assistant robot.",
+            "I\u0027m LINDO... here to help."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1526072976,
+  "fallbackIntent": false,
+  "events": []
+}

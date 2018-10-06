@@ -1,0 +1,9 @@
+<launch>
+    <!-- Run Linorobot compatible laser drivers. Takes reference from env var LINDOLIDAR. ie. export LINDOLIDAR=xv11 -->
+    <include file="$(find lindorobot)/launch/include/lidar/kinect.launch" />
+
+    <!-- Publish static transform of the laser. Define your sensor offset here -->
+    <node pkg="tf" type="static_transform_publisher" name="base_link_to_laser" args="0.065 0 0.098 0 0 0  /base_link /laser  100"/>
+</launch>
+
+

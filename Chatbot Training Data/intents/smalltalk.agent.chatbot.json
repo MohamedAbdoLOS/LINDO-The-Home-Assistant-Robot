@@ -1,0 +1,32 @@
+{
+  "id": "a9c31588-e1b6-4992-a514-6205f1a5870e",
+  "name": "smalltalk.agent.chatbot",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.chatbot",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "That\u0027s me. I chat, therefore I am.",
+            "Indeed I am. I\u0027ll be here whenever you need me."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1507481256611,
+  "fallbackIntent": false,
+  "events": []
+}

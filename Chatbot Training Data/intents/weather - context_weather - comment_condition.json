@@ -1,0 +1,45 @@
+{
+  "id": "978c51e2-dfbd-45ae-948e-b47eb673de5a",
+  "name": "weather - context:weather - comment:condition",
+  "auto": true,
+  "contexts": [
+    "weather"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "#weather.intent_action",
+      "affectedContexts": [
+        {
+          "name": "weather",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "c937e36d-9af5-45cd-bc34-15b6062efa29",
+          "dataType": "@weather-condition",
+          "name": "condition",
+          "value": "$condition",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1507900971472,
+  "fallbackIntent": false,
+  "events": []
+}

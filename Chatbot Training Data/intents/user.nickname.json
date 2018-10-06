@@ -1,0 +1,29 @@
+{
+  "id": "8d25360e-554e-4f73-924a-539b4b1e711c",
+  "name": "user.nickname",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "nickname.tell",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1526079191,
+  "fallbackIntent": false,
+  "events": []
+}

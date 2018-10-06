@@ -1,0 +1,34 @@
+{
+  "id": "874cc13f-dfd3-43f3-a477-5ed896cec94e",
+  "name": "smalltalk.user.going_to_bed",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.user.going_to_bed",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Sleep tight. Hope to chat again soon.",
+            "Sounds good. Hopefully we\u0027ll chat some more tomorrow.",
+            "Good night. Talk to you later.",
+            "Pleasant dreams. See you soon."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1507481256638,
+  "fallbackIntent": false,
+  "events": []
+}

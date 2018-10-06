@@ -1,0 +1,38 @@
+{
+  "id": "8e1e5f9e-5e57-4199-b27d-691f4e2f204b",
+  "name": "smalltalk.confirmation.no",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.confirmation.no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Okay.",
+            "I see.",
+            "I understand.",
+            "Okay then.",
+            "Ok I didn\u0027t think so.",
+            "Perhaps not.",
+            "I suppose not.",
+            "OK, maybe not."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1526073990,
+  "fallbackIntent": false,
+  "events": []
+}

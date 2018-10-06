@@ -1,0 +1,7 @@
+<launch>
+  <node name="recognizer" pkg="pocketsphinx" type="recognizer.py">
+    <param name="lm" value="$(find lindorobot)/params/goto.lm"/>
+    <param name="dict" value="$(find lindorobot)/params/goto.dic"/>
+  </node>
+  <node name="lindorobot_goto" pkg="lindorobot" type="goto.py" output="screen"/>
+</launch>

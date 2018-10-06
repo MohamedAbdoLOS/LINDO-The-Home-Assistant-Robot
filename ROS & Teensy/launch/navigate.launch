@@ -1,0 +1,12 @@
+<launch>
+    <!-- Map server -->
+    <arg name="map_file" default="$(find lindorobot)/maps/house.yaml"/>
+    <node pkg="map_server" name="map_server"  type="map_server" args="$(arg map_file)" />
+
+    <!-- AMCL used for localization -->
+    <include file="$(find lindorobot)/launch/include/amcl.launch" />
+    
+    <!-- Calls navigation stack packages for compatible Linorobot base -->
+    <!-- Takes reference from env variable LINDOBASE. ie. export LINDOBASE=2wd -->
+    <include file="$(find lindorobot)/launch/include/move_base/move_base_mecanum.launch" />
+</launch>

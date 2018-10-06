@@ -1,0 +1,258 @@
+[
+  {
+    "id": "d49f9392-e65e-4bd1-a043-04bffc417d4e",
+    "data": [
+      {
+        "text": "where does ",
+        "userDefined": false
+      },
+      {
+        "text": "reem mall",
+        "alias": "address",
+        "meta": "@addressEnt",
+        "userDefined": true
+      },
+      {
+        "text": " exist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520806464
+  },
+  {
+    "id": "4e30807d-cbf2-4cf0-b609-d05be5ad151b",
+    "data": [
+      {
+        "text": "help me reach ",
+        "userDefined": false
+      },
+      {
+        "text": "ram shop",
+        "alias": "address",
+        "meta": "@addressEnt",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520806464
+  },
+  {
+    "id": "545c39ef-7ee6-475d-9750-2bca8a60e110",
+    "data": [
+      {
+        "text": "how go to ",
+        "userDefined": false
+      },
+      {
+        "text": "hall street",
+        "alias": "address",
+        "meta": "@addressEnt",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520806464
+  },
+  {
+    "id": "b8f48eb5-49e4-4d1a-8b2b-e4ac0a6f6638",
+    "data": [
+      {
+        "text": "how to go to ",
+        "userDefined": false
+      },
+      {
+        "text": "london",
+        "alias": "address",
+        "meta": "@addressEnt",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520806464
+  },
+  {
+    "id": "b27d5db4-ebb3-4fba-aa45-38a9832f2be1",
+    "data": [
+      {
+        "text": "the location of ",
+        "userDefined": false
+      },
+      {
+        "text": "msa university",
+        "alias": "address",
+        "meta": "@addressEnt",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520806464
+  },
+  {
+    "id": "19ed4681-3344-4df6-b10e-386fe69c0744",
+    "data": [
+      {
+        "text": "navigate to ",
+        "userDefined": false
+      },
+      {
+        "text": "el mahoar street",
+        "alias": "address",
+        "meta": "@addressEnt",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520806464
+  },
+  {
+    "id": "4f33f840-920f-47e6-a151-a37c1892aecc",
+    "data": [
+      {
+        "text": "how can I go to ",
+        "userDefined": false
+      },
+      {
+        "text": "cairo street",
+        "alias": "address",
+        "meta": "@addressEnt",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520806464
+  },
+  {
+    "id": "07a8866c-69bf-4c9d-a26f-ecbb4fb484ef",
+    "data": [
+      {
+        "text": "how can I go to ",
+        "userDefined": false
+      },
+      {
+        "text": "tahrir street",
+        "alias": "address",
+        "meta": "@addressEnt",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520806464
+  },
+  {
+    "id": "449cda3e-cb4e-4d91-b018-c6b856c8e430",
+    "data": [
+      {
+        "text": "I need directions to ",
+        "userDefined": false
+      },
+      {
+        "text": "ram electronics egypt",
+        "alias": "address",
+        "meta": "@addressEnt",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520979895
+  },
+  {
+    "id": "f80f818b-0b44-476e-b7c2-93c6d828239f",
+    "data": [
+      {
+        "text": "the location of ",
+        "userDefined": false
+      },
+      {
+        "text": "distract 10",
+        "alias": "address",
+        "meta": "@addressEnt",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520806464
+  },
+  {
+    "id": "b4f8ac56-89ca-46eb-bce0-09ac08909de7",
+    "data": [
+      {
+        "text": "give me directions to ",
+        "userDefined": false
+      },
+      {
+        "text": "mall of egypt",
+        "alias": "address",
+        "meta": "@addressEnt",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520979895
+  },
+  {
+    "id": "284c7b79-f0ce-4d76-b3e1-35a4e9d0089a",
+    "data": [
+      {
+        "text": "I want to go to ",
+        "userDefined": false
+      },
+      {
+        "text": "sheik zaid mosque",
+        "alias": "address",
+        "meta": "@addressEnt",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520806464
+  },
+  {
+    "id": "7f852b80-7619-41ba-aa74-00b60f9c88e2",
+    "data": [
+      {
+        "text": "how can I go to  ",
+        "userDefined": false
+      },
+      {
+        "text": "misr university",
+        "alias": "address",
+        "meta": "@addressEnt",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520806464
+  },
+  {
+    "id": "900edcd2-cf77-4c2f-a093-7ac245c3ba72",
+    "data": [
+      {
+        "text": "how can I go to ",
+        "userDefined": false
+      },
+      {
+        "text": "arab\u0027s mall",
+        "alias": "address",
+        "meta": "@addressEnt",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520806464
+  }
+]

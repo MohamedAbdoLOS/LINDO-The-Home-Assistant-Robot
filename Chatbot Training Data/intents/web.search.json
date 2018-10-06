@@ -1,0 +1,64 @@
+{
+  "id": "93c96516-3077-42d4-b2b6-4fad3dce1e0a",
+  "name": "web.search",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "web.search",
+      "affectedContexts": [
+        {
+          "name": "web-search",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "control_lists_web_search",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "websearch-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "4f97e869-6cb9-4de2-9f16-a4d27482d833",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "searchfor",
+          "value": "$searchfor",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "About what exactly ?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "2d9c37ce-908b-404a-b326-a3b7e8446fed",
+          "required": false,
+          "dataType": "@search-engine",
+          "name": "service",
+          "value": "$service",
+          "isList": false
+        }
+      ],
+      "messages": [],
+      "defaultResponsePlatforms": {
+        "google": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1520788468,
+  "fallbackIntent": false,
+  "events": []
+}

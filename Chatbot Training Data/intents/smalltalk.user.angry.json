@@ -1,0 +1,32 @@
+{
+  "id": "cf87bf9a-8a5e-4470-abe0-3aed0b8b1cbb",
+  "name": "smalltalk.user.angry",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.user.angry",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "I\u0027m sorry. What can I do to help?",
+            "Take a deep breath. What can I do to make things better?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1507667103,
+  "fallbackIntent": false,
+  "events": []
+}

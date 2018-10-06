@@ -1,0 +1,29 @@
+{
+  "id": "c4c8272c-3e33-411d-b2e3-65df0da10a04",
+  "name": "smalltalk.dialog.i_do_not_care",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.dialog.i_do_not_care",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Ok, let\u0027s not talk about it then."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1507481256190,
+  "fallbackIntent": false,
+  "events": []
+}

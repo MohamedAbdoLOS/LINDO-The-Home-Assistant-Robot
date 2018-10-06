@@ -1,0 +1,33 @@
+{
+  "id": "bf1bd910-7242-487e-a6d9-788068603231",
+  "name": "smalltalk.greetings.goodevening",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.greetings.goodevening",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "How is your day going?",
+            "How\u0027s the day treating you so far?",
+            "How\u0027s your day been?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1507481256375,
+  "fallbackIntent": false,
+  "events": []
+}

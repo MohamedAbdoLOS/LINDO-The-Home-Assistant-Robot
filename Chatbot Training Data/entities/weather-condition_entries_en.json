@@ -1,0 +1,129 @@
+[
+  {
+    "value": "rain",
+    "synonyms": [
+      "rain",
+      "raining"
+    ]
+  },
+  {
+    "value": "shower",
+    "synonyms": [
+      "shower",
+      "showers"
+    ]
+  },
+  {
+    "value": "ice",
+    "synonyms": [
+      "ice"
+    ]
+  },
+  {
+    "value": "wind",
+    "synonyms": [
+      "wind",
+      "windy"
+    ]
+  },
+  {
+    "value": "foggy",
+    "synonyms": [
+      "foggy"
+    ]
+  },
+  {
+    "value": "sun",
+    "synonyms": [
+      "sunny",
+      "sun"
+    ]
+  },
+  {
+    "value": "tornadoes",
+    "synonyms": [
+      "tornadoes"
+    ]
+  },
+  {
+    "value": "fog",
+    "synonyms": [
+      "fog",
+      "mist"
+    ]
+  },
+  {
+    "value": "storm",
+    "synonyms": [
+      "storm"
+    ]
+  },
+  {
+    "value": "drizzle",
+    "synonyms": [
+      "drizzle"
+    ]
+  },
+  {
+    "value": "freezing rain",
+    "synonyms": [
+      "freezing rain"
+    ]
+  },
+  {
+    "value": "hurricanes",
+    "synonyms": [
+      "hurricanes"
+    ]
+  },
+  {
+    "value": "smoke",
+    "synonyms": [
+      "smoke"
+    ]
+  },
+  {
+    "value": "rain snow",
+    "synonyms": [
+      "rain snow"
+    ]
+  },
+  {
+    "value": "clouds",
+    "synonyms": [
+      "clouds",
+      "cloudy"
+    ]
+  },
+  {
+    "value": "overcast",
+    "synonyms": [
+      "overcast"
+    ]
+  },
+  {
+    "value": "volcano eruption",
+    "synonyms": [
+      "volcano eruption"
+    ]
+  },
+  {
+    "value": "haze",
+    "synonyms": [
+      "haze"
+    ]
+  },
+  {
+    "value": "snow",
+    "synonyms": [
+      "snow",
+      "snowing"
+    ]
+  },
+  {
+    "value": "thunderstorm",
+    "synonyms": [
+      "thunderstorm"
+    ]
+  }
+]

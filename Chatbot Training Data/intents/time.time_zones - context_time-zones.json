@@ -1,0 +1,38 @@
+{
+  "id": "d7ad20b3-2006-4ffd-8a0c-738f9aed3531",
+  "name": "time.time_zones - context:time-zones",
+  "auto": true,
+  "contexts": [
+    "time-zones"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "time.time_zones",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "100e72c5-b2f2-4ba3-b4dd-e4ef3d0a91dc",
+          "dataType": "@sys.location",
+          "name": "location",
+          "value": "$location"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1520455802,
+  "fallbackIntent": false,
+  "events": []
+}

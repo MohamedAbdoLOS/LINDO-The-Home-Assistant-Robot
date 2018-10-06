@@ -1,0 +1,34 @@
+{
+  "id": "5537857c-7919-4a00-a574-8474a10aa6e2",
+  "name": "smalltalk.user.excited",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.user.excited",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "That\u0027s great. I\u0027m happy for you.",
+            "Good for you. Enjoy yourself.",
+            "Sounds like good things ahead for you.",
+            "I bet you are. That\u0027s very exciting."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1507481256438,
+  "fallbackIntent": false,
+  "events": []
+}

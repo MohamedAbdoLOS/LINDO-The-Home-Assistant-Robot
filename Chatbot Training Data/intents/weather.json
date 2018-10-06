@@ -1,0 +1,74 @@
+{
+  "id": "bfabdd48-ac59-4cef-bac5-e49e91fde53e",
+  "name": "weather",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "yahooWeatherForecast",
+      "affectedContexts": [
+        {
+          "name": "weather",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "398c2c0f-a692-4d41-8a55-e3837f6f312d",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "name": "date-time",
+          "value": "$date-time",
+          "prompts": [],
+          "defaultValue": "",
+          "isList": false
+        },
+        {
+          "id": "f7b9f1b6-e887-42da-814b-ff6d090f5079",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Which city?"
+            },
+            {
+              "lang": "en",
+              "value": "For which city?"
+            }
+          ],
+          "defaultValue": "",
+          "isList": false
+        },
+        {
+          "id": "e4f15bb1-3890-4052-abcc-9ee84c487787",
+          "required": false,
+          "dataType": "@unit-temperature",
+          "name": "unit",
+          "value": "$unit",
+          "prompts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1521235293,
+  "fallbackIntent": false,
+  "events": []
+}

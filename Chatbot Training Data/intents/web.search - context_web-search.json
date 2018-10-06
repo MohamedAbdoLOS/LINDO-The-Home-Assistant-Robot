@@ -1,0 +1,51 @@
+{
+  "id": "7bd14f9d-5342-4390-94b6-1d95d5e200cf",
+  "name": "web.search - context:web-search",
+  "auto": true,
+  "contexts": [
+    "web-search"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "web.search",
+      "affectedContexts": [
+        {
+          "name": "web-search",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "0a04449d-05aa-4682-82c0-713a2d652332",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "searchfor",
+          "value": "$searchfor",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Here\u0027s what I found about $q...",
+            "I fetched this for you...",
+            "Here is some information about $q...",
+            "Here is some info about $q..."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1520001590,
+  "fallbackIntent": false,
+  "events": []
+}
